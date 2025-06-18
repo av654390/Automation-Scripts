@@ -1,0 +1,6 @@
+{
+"RBP" : "1.1 - RBP - SAP ERP 6.0(R/3) System",
+"SLP" : "1.4 - SLP -SAP SLM Buy Side",
+"LMP" : "1.5 - LMP-SLM Sell Side",
+"SBP" : "0.1 - R/3 Production"
+}

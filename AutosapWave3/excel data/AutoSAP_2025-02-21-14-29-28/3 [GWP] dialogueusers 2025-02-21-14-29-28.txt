@@ -1,0 +1,16 @@
+﻿21.02.2025                                                                            Dynamic List Display                                                                                                                                      1
+
+
+	AS Instance	Client	User ID	Client Host	Applicatn	Dialog time	Sessions	Priority	Type	 Memory	ConvID	Application Info.
+
+	wavsalx18021_GWP_01	100	LAV26561	159.114.118.7		21.02.2025 14:29:46	      1	High	Plug-In	 8.104		P=/sap/bc/ui5_ui5/ui2/ushell/resources/~20210721115100~/hcm/myteamcalendar/Component-preload.js
+	wavsalx18021_GWP_01	100	FP778138	159.114.118.7		21.02.2025 14:29:44	      1	High	Plug-In	 2.491		P=/sap/bc/ui5_ui5/ui2/ushell/~4DD08E41BBB82386E1BBBDC962402C2F~C/chips/applauncher.chip.xml
+	wavsalx18021_GWP_01	100	EL491900	IE1WVDCP180467	AL08	21.02.2025 14:29:54	      1	High	GUI	11.774
+	wavsalx18019_GWP_00	100	EL491900	IE1WVDCP180467		21.02.2025 14:29:54	      1	High	RFC	 2.435	74753253	R=1 T=S S=wavsalx18021_GWP_01 I=CL_SERVER_INFO================CP F=SSI_SERVER_INFO_GET_SESSIONS C=100 U=EL491900
+	wavsalx18019_GWP_00	100	FP778138	159.114.118.7		21.02.2025 14:29:44	      1	High	Plug-In	 2.492		P=/sap/bc/ui5_ui5/ui2/ushell/~4DD08E41BBB82386E1BBBDC962402C2F~C/chips/applauncher_dynamic.chip.xml
+	wavsalx18019_GWP_00	100	FP778138	159.114.118.7		21.02.2025 14:29:42	      1	High	Plug-In	12.218		R=3 P=/sap/bc/ui2/start_up
+	wavsalx18019_GWP_00	100	LAV26561	159.114.118.7		21.02.2025 14:29:38	      1	High	Plug-In	12.183		P=/flp
+	wavsalx18019_GWP_00	100	CJ472837	159.114.118.7		21.02.2025 14:29:36	      1	High	Plug-In	12.184		P=/flp
+	wavsalx18019_GWP_00	100	RR610198	ie1wvdcmrd53028	SM51	21.02.2025 14:21:39	      1	High	GUI	15.382
+
+9 user logons with 9 back-end sessions

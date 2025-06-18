@@ -1,0 +1,9 @@
+1. Systems - SBP, AUP, ATTP
+2. T-codes for all 3 : ST06, SMLG, AL08, ST22, RZ03, DB02
+3. additional T-code : SM59 for SBP
+
+Issues:
+1. RZ03 for SBP and AUP - Cleared ✔
+2. SMLG for SBP and AUP - Cleared ✔
+3. ST06 Memory for SBP and AUP - Issue Found (multiple decimal points)
+4. DB02 for SBP and AUP

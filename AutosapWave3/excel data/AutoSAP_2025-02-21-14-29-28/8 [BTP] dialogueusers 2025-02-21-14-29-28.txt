@@ -1,0 +1,25 @@
+﻿21.02.2025                                                                                     Dynamic List Display                                                                                                                                              1
+
+
+	AS Instance	Client	User ID	Client Host	Application	Dialog time	Sessions	Priority	Type	  Memory	ConvID	Application Info.
+
+	wavsalx18020_BTP_01	100	GSK_GBTBATCH			21.02.2025 14:30:21	      1		Background	  1.018		background job Z_GBT_D_EVENTS_COLLECT 14152000
+	wavsalx18020_BTP_01	100	EL491900	IE1WVDCP180467	AL08	21.02.2025 14:30:30	      1	High	GUI	 11.788
+	wavsalx18020_BTP_01	100	AXS40517	ie1wvdcmcp51020	SE16	21.02.2025 14:30:14	      1	High	GUI	 12.918
+	wavsalx18020_BTP_01	100	RB819050	RSAWL21H06834	ZGBT_NW_UL_BU	21.02.2025 14:27:43	      1	High	GUI	 17.538
+	wavsalx18020_BTP_01	100	SG533061	IBMWL21L00299	SM37	21.02.2025 14:27:10	      1	High	GUI	 15.659
+	wavsalx18020_BTP_01	100	IXS19419	IBMWL21L14533	SM37	21.02.2025 14:20:31	      5	High	GUI	 63.405
+	wavsalx18020_BTP_01	100	MRP95408	159.114.120.215		21.02.2025 14:03:51	      1	High	Plug-In	 24.533		R=7 P=/sap/bc/webdynpro/gbt/WDA_NW_OVP
+	wavsalx18020_BTP_01	100	GSK_GBTBATCH			21.02.2025 14:29:18	      1		Background	  1.321		background job Z_GBT_E_GEN_TD02_1 14003700
+	wavsalx18020_BTP_01	100	SZLUFM00	COM5CG3413X4J	ZGBT_NW_UL_TD	21.02.2025 13:54:59	      1	High	GUI	373.677
+	wavsalx18020_BTP_01	100	GSK_GBTBATCH			21.02.2025 14:30:08	      1		Background	  1.321		background job Z_GBT_E_GEN_TD02_2 13000500
+	wavsalx18020_BTP_01	100	MC262595	WAVWL24H04243	ZGBT_NW_UL_BU	21.02.2025 12:37:04	      1	High	GUI	 70.344
+	wavsalx18020_BTP_01	100	GSK_SM_BT	wavsalx18020.sbbio.b		21.02.2025 14:30:29	      1	Medium	RFC	  4.292	94162031	R=4849 T=S S=wavsalx18020 I= F=/SDF/IS_PROXY C= U=
+	wavsalx18016_BTP_00	100	EL491900	IE1WVDCP180467		21.02.2025 14:30:30	      1	High	RFC	  2.435	52420344	R=1 T=S S=wavsalx18020_BTP_01 I=CL_SERVER_INFO================CP F=SSI_SERVER_INFO_GET_SESSIONS C=100 U=EL491900
+	wavsalx18016_BTP_00	100	RB819050	159.114.120.215		21.02.2025 14:27:19	      1	High	Plug-In	 28.617		R=10 P=/sap/bc/webdynpro/gbt/WDA_NW_OVP
+	wavsalx18016_BTP_00	100	CH239511	ie1wvdcmcp53020	SE16	21.02.2025 14:25:28	      2	High	GUI	 21.983
+	wavsalx18016_BTP_00	100	GSK_GBTBATCH			21.02.2025 14:29:23	      1		Background	  1.321		background job Z_GBT_E_GEN_TD02_2 14003700
+	wavsalx18016_BTP_00	100	RN071998	ie1wvdcmcp53018	SMLG	21.02.2025 14:28:26	      1	High	GUI	 15.118
+	wavsalx18016_BTP_00	100	GSK_SM_BT	wavsalx18016.sbbio.b		21.02.2025 14:30:23	      1	Medium	RFC	  4.292	13761579	R=4703 T=S S=wavsalx18016 I= F=/SDF/IS_PROXY C= U=
+
+18 user logons with 23 back-end sessions

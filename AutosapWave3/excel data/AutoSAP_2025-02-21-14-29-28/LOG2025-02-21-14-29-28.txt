@@ -1,0 +1,92 @@
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+CPU Idle Values: [95 95]
+Average CPU Idle Value: 95.0
+FRee memory percentages: [13 16]
+Average memory Value: 14.5
+CPU Idle Value: 5.0
+Free Memory Value: 85.5
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) table not locked in smlg
+MaxResponse_time: 426.0
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in al08
+User Logon Line: 9 user logons with 9 back-end sessions
+Dialogue_Users: 9
+Application_servers: 2
+Start Date: 21.02.2025, Start Time: 11:30:01
+End Date: 21.02.2025, End Time: 14:30:01
+No short dumps match the selection criteria
+Total_Dumps: None
+0
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+CPU Idle Values: [85 80]
+Average CPU Idle Value: 82.5
+FRee memory percentages: [ 9 10]
+Average memory Value: 9.5
+CPU Idle Value: 17.5
+Free Memory Value: 90.5
+MaxResponse_time: 1925.0
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in al08
+User Logon Line: 18 user logons with 23 back-end sessions
+Dialogue_Users: 18
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in RZ03
+Application_servers: 2
+Start Date: 21.02.2025, Start Time: 11:30:36
+End Date: 21.02.2025, End Time: 14:30:36
+
+Dumps_Count : 4
+Total_Dumps: 4
+0
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+CPU Idle Values: [96 97 94]
+Average CPU Idle Value: 95.66666666666667
+FRee memory percentages: [13 13 12]
+Average memory Value: 12.666666666666666
+CPU Idle Value: 4.33
+Free Memory Value: 87.33
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) table not locked in smlg
+MaxResponse_time: 335.0
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in al08
+User Logon Line: 114 user sessions with 115 ABAP sessions
+Dialogue_Users: 114
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in RZ03
+Application_servers: 3
+Start Date: 21.02.2025, Start Time: 11:31:06
+End Date: 21.02.2025, End Time: 14:31:06
+
+Dumps_Count : 8
+Total_Dumps: 8
+0
+erry.8.lavakumar@gsk.com, gayathri.x.chamarthi@gsk.com, vishnuvardhan.x.kalicheti@gsk.com akoju.x.sharanya@gsk.com
+1 [GWP] ST06 2025-02-21-14-29-28.html
+10 [BTP] Dumps 2025-02-21-14-29-28.html
+11 [PCP] ST06 2025-02-21-14-29-28.html
+12 [PCP] smlg 2025-02-21-14-29-28.html
+13 [PCP] dialogueusers 2025-02-21-14-29-28.txt
+14 [PCP] rz03 2025-02-21-14-29-28.html
+15 [PCP] Dumps 2025-02-21-14-29-28.html
+2 [GWP] smlg 2025-02-21-14-29-28.html
+3 [GWP] dialogueusers 2025-02-21-14-29-28.txt
+4 [GWP] rz03 2025-02-21-14-29-28.html
+5 [GWP] Dumps 2025-02-21-14-29-28.png
+6 [BTP] ST06 2025-02-21-14-29-28.html
+7 [BTP] smlg 2025-02-21-14-29-28.html
+8 [BTP] dialogueusers 2025-02-21-14-29-28.txt
+9 [BTP] rz03 2025-02-21-14-29-28.html
+Autosapexcel_sheet-2025-02-21-14-29-28.html
+Autosapexcel_sheet-2025-02-21-14-29-28.xlsx
+LOG2025-02-21-14-29-28.txt
+s_b_spce.gif
+s_s_ledg.gif
+MAIL SENT SUCCESSFULLY
+None

@@ -1,0 +1,7 @@
+﻿21.02.2025                                         Dynamic List Display                                                                                                  1
+
+
+	AS Instance	Client	User ID	Client Host	Application	Dialog time	Sessions	Priority	Session Type	    Memory	ConvID	Application Info.
+
+
+114 user sessions with 115 ABAP sessions

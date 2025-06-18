@@ -1,0 +1,6 @@
+{
+  "PCP" : "0.A - GRC Process Control Production",
+  "BIP" : "0.2 - BW Production",
+  "HRP": "0.6 - HR Production",
+  "WMP" :"0.9 - eWM Production"
+}
