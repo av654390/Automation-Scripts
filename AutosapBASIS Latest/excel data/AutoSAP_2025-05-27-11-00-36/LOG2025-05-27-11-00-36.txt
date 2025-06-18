@@ -1,0 +1,2 @@
+Files will be stored in the path- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-05-27-11-00-36/
+{'Error in Global Try ': IndentationError('unindent does not match any outer indentation level', ('C:\\Users\\el491900\\OneDrive - GSK\\Desktop\\scripts\\venv\\AutosapBASIS\\st06_cpu.py', 53, 65, '            elif average_cpu_usage>=85 and average_cpu_usage<95:\n', 53, -1))}

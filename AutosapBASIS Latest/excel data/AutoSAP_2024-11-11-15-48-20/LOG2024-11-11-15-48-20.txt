@@ -1,0 +1,136 @@
+Files will be stored in the path- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-15-48-20/
+
+in logon  
+Logon is Fine
+
+ ##### DB01 #####
+DB01- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-15-48-20/1 db01 2024-11-11-15-48-20.png
+
+ ##### SM51 #####
+SM51- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-15-48-20//2 sm51 2024-11-11-15-48-20.png
+
+ ##### SM58 #####
+SM58- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-15-48-20//3 sm58 2024-11-11-15-48-20.png
+
+ ##### SMLG #####
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) Table not locked in smlg
+SMLG- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-15-48-20//4 smlg 2024-11-11-15-48-20.png
+
+ ##### SM37 #####
+DATEE 10.11.2024
+No job matches the selection criteria
+SM37- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-15-48-20//5 sm37 2024-11-11-15-48-20.png
+
+ ##### DB02 #####
+DB02 - {'PSAPR3I': {'value': 90, 'status': 'Amber'}, 'PSAPUNDO': {'value': 79, 'status': 'Green'}, 'PSAPR3I750': {'value': 68, 'status': 'Green'}, 'PSAPR3IINDEX': {'value': 87, 'status': 'Amber'}, 'PSAPSOFFCONT1': {'value': 84, 'status': 'Green'}}
+
+ ##### ST06 #####
+ragent or /opt/imperva :  7 %
+For CPU Utilization :  {'rixsasp1_SBP_00': 27, 'wavsap1d_SBP_23': 34, 'wavsap2d_SBP_24': 7, 'wavsap2p_SBP_08': 10, 'wavsap3d_SBP_30': 55, 'wavsap4d_SBP_22': 6, 'wavsap4p_SBP_06': 4, 'wavsap5d_SBP_21': 10, 'wavsap5p_SBP_07': 11, 'wavsap6p_SBP_09': 23, 'wavsap7p_SBP_04': 43, 'wavsap9p_SBP_10': 29}
+For Free Memory : {'rixsasp1_SBP_00': 5.867999999999999, 'wavsap1d_SBP_23': 134.174, 'wavsap2d_SBP_24': 170.763, 'wavsap2p_SBP_08': 139.9, 'wavsap3d_SBP_30': 113.333, 'wavsap4d_SBP_22': 157.52700000000002, 'wavsap4p_SBP_06': 212.109, 'wavsap5d_SBP_21': 154.451, 'wavsap5p_SBP_07': 144.856, 'wavsap6p_SBP_09': 97.23299999999999, 'wavsap7p_SBP_04': 96.367, 'wavsap9p_SBP_10': 128.01}
+Disk CPU Utilized 21
+ST06- {'rcpu': {'value': 7, 'status': 'Red'}, 'disk': {'value': 21, 'status': 'Green'}}
+
+ ##### ST07 #####
+Row No of 'Total' :  15
+WP Occupied- 36
+Active Users- 224
+ST07- {'wpo': {'value': 36, 'status': 'Green'}, 'act': {'value': 224, 'status': 'Green'}}
+
+ ##### ST22 #####
+
+Dumps Count : 30
+ST22- {'value': 30, 'status': 'Green'}
+
+ ##### SE38 #####
+Logins :  1867
+Session :  2403
+WPs Priv Mode:  0
+CPU Utilization %: 86
+
+ ##### SM59 #####
+V134: 3 msec
+SM59_dict :  {134: 'Ok'}
+V135: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok'}
+V136: 5 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok'}
+V137: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok'}
+V138: 3 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok'}
+V139: 5 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok'}
+V140: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok'}
+V141: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok'}
+V142: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok'}
+V143: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok'}
+V144: 3 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok'}
+V145: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok'}
+V146: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok'}
+V147: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok'}
+V148: 3 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok'}
+V149: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok'}
+V150: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok'}
+V151: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok'}
+V152: 6 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok'}
+V153: 3 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok', 153: 'Ok'}
+V154: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok', 153: 'Ok', 154: 'Ok'}
+V155: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok', 153: 'Ok', 154: 'Ok', 155: 'Ok'}
+V156: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok', 153: 'Ok', 154: 'Ok', 155: 'Ok', 156: 'Ok'}
+V157: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok', 153: 'Ok', 154: 'Ok', 155: 'Ok', 156: 'Ok', 157: 'Ok'}
+V158: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok', 153: 'Ok', 154: 'Ok', 155: 'Ok', 156: 'Ok', 157: 'Ok', 158: 'Ok'}
+V159: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok', 153: 'Ok', 154: 'Ok', 155: 'Ok', 156: 'Ok', 157: 'Ok', 158: 'Ok', 159: 'Ok'}
+V164: 4 msec
+SM59_dict :  {134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok', 153: 'Ok', 154: 'Ok', 155: 'Ok', 156: 'Ok', 157: 'Ok', 158: 'Ok', 159: 'Ok', 164: 'Ok'}
+FINAL VALUES: {'db02_dict': {'PSAPR3I': {'value': 90, 'status': 'Amber'}, 'PSAPUNDO': {'value': 79, 'status': 'Green'}, 'PSAPR3I750': {'value': 68, 'status': 'Green'}, 'PSAPR3IINDEX': {'value': 87, 'status': 'Amber'}, 'PSAPSOFFCONT1': {'value': 84, 'status': 'Green'}}, 'st06_dict': {'rcpu': {'value': 7, 'status': 'Red'}, 'disk': {'value': 21, 'status': 'Green'}}, 'st07_dict': {'wpo': {'value': 36, 'status': 'Green'}, 'act': {'value': 224, 'status': 'Green'}}, 'st22_dict': {'value': 30, 'status': 'Green'}, 'sm37_dict': {'value': 0, 'status': 'Green', 'path': 'C:\\Users\\el491900\\OneDrive - GSK\\Desktop\\scripts\\venv\\AutosapBASIS/excel data/AutoSAP_2024-11-11-15-48-20//5 sm37 2024-11-11-15-48-20.png'}, 'se38_dict': {'logins': {'value': 1867, 'status': 'Green'}, 'sessions': {'value': 2403, 'status': 'Green'}, 'wps': {'value': 0, 'status': 'Green'}, 'cpu%': {'value': 14, 'status': 'Green'}}, 'sm59_dict': {'value': 0, 'status': 'Green'}}
+84 37
+XL Generated
+HTML Generated
+C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-15-48-20/\AutoSAP_html_summary_2024-11-11-15-48-20.html
+{134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok', 153: 'Ok', 154: 'Ok', 155: 'Ok', 156: 'Ok', 157: 'Ok', 158: 'Ok', 159: 'Ok', 164: 'Ok'}
+RFC XL Generated Successfully!
+ALL STATUS: ['Amber', 'Green', 'Green', 'Amber', 'Green', 'Red', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green']
+OVERALL STATUS: RED
+
+ ##### Sender File #####
+erry.8.lavakumar@gsk.com, nikhil.x.chalikwar@gsk.com, akoju.x.sharanya@gsk.com erry.8.lavakumar@gsk.com, nikhil.x.chalikwar@gsk.com, akoju.x.sharanya@gsk.com
+0[RFC]_AutoSAP_XL2024-11-11-15-48-20.xlsx
+1 db01 2024-11-11-15-48-20.png
+10 se38 2024-11-11-15-48-20.html
+10 SE38 2024-11-11-15-48-20.png
+2 sm51 2024-11-11-15-48-20.png
+3 sm58 2024-11-11-15-48-20.png
+4 smlg 2024-11-11-15-48-20.png
+5 sm37 2024-11-11-15-48-20.png
+6 DB02_report_2024-11-11-15-48-20.html
+7 Disk CPU 2024-11-11-15-48-20.png
+7 RAgent 2024-11-11-15-48-20.png
+7 ST06 CPU 2024-11-11-15-48-20.html
+7 ST06 Memory 2024-11-11-15-48-20.html
+8 st07 2024-11-11-15-48-20.html
+9 st22_report.html
+AutoSAP_html_summary_2024-11-11-15-48-20.html
+AutoSAP_XL_2024-11-11-15-48-20.xlsx
+LOG2024-11-11-15-48-20.txt
+MAIL SENT SUCCESSFULLY

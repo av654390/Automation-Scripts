@@ -1,0 +1,1 @@
+cd & "c:/Users/el491900/OneDrive - GSK/Desktop/scripts/scripts_env/Scripts/python.exe" "c:/Users/el491900/OneDrive - GSK/Desktop/scripts/venv/AutosapBASIS/autosapVxMon.py"

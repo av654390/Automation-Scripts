@@ -1,0 +1,4 @@
+Files will be stored in the path- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-05-27-09-22-18/
+Name or password is incorrect (repeat logon)
+Sorry, Name or password is incorrect
+Mail sent!

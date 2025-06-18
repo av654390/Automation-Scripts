@@ -1,0 +1,119 @@
+Files will be stored in the path- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-10-09-38-34/
+
+in logon  
+Logon is Fine
+
+##### DB01 #####
+DB01: File/Screenshot Saved Successfully!!
+DB01- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-10-09-38-34/1 DB01 2025-01-10-09-38-34.png
+
+##### SM51 #####
+SM51 : File/Screenshot Saved Successfully!!
+SM51- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-10-09-38-34//2 SM51 2025-01-10-09-38-34.png
+
+##### SM58 #####
+SM58 : File/Screenshot Saved Successfully!!
+SM58- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-10-09-38-34//3 SM58 2025-01-10-09-38-34.png
+
+##### SMLG #####
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) Table not locked in smlg
+SMLG : File/Screenshot Saved Successfully!!
+SMLG- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-10-09-38-34//4 SMLG 2025-01-10-09-38-34.png
+
+##### SM37 #####
+DATEE 09.01.2025
+No job matches the selection criteria
+SM37 : File/Screenshot Saved Successfully!!
+SM37- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-10-09-38-34//5 SM37 2025-01-10-09-38-34.png
+
+##### DB02 #####
+DB02 - {'PSAPR3I': {'value': 88, 'status': 'Amber'}, 'PSAPUNDO': {'value': 74, 'status': 'Green'}, 'PSAPR3I750': {'value': 68, 'status': 'Green'}, 'PSAPR3IINDEX': {'value': 64, 'status': 'Green'}, 'PSAPSOFFCONT1': {'value': 86, 'status': 'Amber'}}
+
+##### ST06 #####
+For CPU Utilization :  {'rixsasp1_SBP_00': 42, 'wavsap1d_SBP_23': 26, 'wavsap2d_SBP_24': 26, 'wavsap2p_SBP_08': 30, 'wavsap3d_SBP_30': 17, 'wavsap4d_SBP_22': 18, 'wavsap4p_SBP_06': 7, 'wavsap5d_SBP_21': 21, 'wavsap5p_SBP_07': 23, 'wavsap6p_SBP_09': 28, 'wavsap7p_SBP_04': 27, 'wavsap9p_SBP_10': 40}
+For Free Memory : {'rixsasp1_SBP_00': 7.595, 'wavsap1d_SBP_23': 157.741, 'wavsap2d_SBP_24': 137.22299999999998, 'wavsap2p_SBP_08': 159.388, 'wavsap3d_SBP_30': 112.875, 'wavsap4d_SBP_22': 144.584, 'wavsap4p_SBP_06': 209.507, 'wavsap5d_SBP_21': 140.25, 'wavsap5p_SBP_07': 164.685, 'wavsap6p_SBP_09': 91.21799999999999, 'wavsap7p_SBP_04': 148.16899999999998, 'wavsap9p_SBP_10': 126.853}
+ST06 Disk CPU : File/Screenshot Saved Successfully!!
+C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-10-09-38-34/7 ST06 Disk CPU 2025-01-10-09-38-34.png
+Disk CPU Utilized 20
+R CPU% :  1.12
+ST06- {'rcpu': {'value': 1.12, 'status': 'Green'}, 'disk': {'value': 20, 'status': 'Green'}}
+
+##### ST07 #####
+Row No of 'Total' :  15
+WP Occupied- 103
+Active Users- 550
+ST07- {'wpo': {'value': 103, 'status': 'Green'}, 'act': {'value': 550, 'status': 'Amber'}}
+
+##### ST22 #####
+
+Dumps Count : 33
+ST22- {'value': 33, 'status': 'Green'}
+
+##### SE38 #####
+Logins :  5579
+Session :  7702
+WPs Priv Mode:  0
+CPU Idle %: 72
+CPU Utilization %: 28
+
+##### SM59 #####
+Length= 27
+SEAL-CONNC: 6 msec
+SEAL-CONVUTIL: 12 msec
+SEAL-CONVUTIL-1: 12 msec
+SEAL-CONVUTIL-2: 10 msec
+SEAL-CONVUTIL-3: 8 msec
+SEAL-VIEW-CKL-CONV00: 3 msec
+SEAL-VIEW-CKL-CONV01: 5 msec
+SEAL-VIEW-CKL-CONV02: 4 msec
+SEAL-VIEW-CKL-CONV03: 4 msec
+SEAL-VIEW-CKL-CONV04: 5 msec
+SEAL-VIEW00: 50 msec
+SEAL-VIEW01: 4 msec
+SEAL-VIEW02: 5 msec
+SEAL-VIEW03: 4 msec
+SEAL-VIEW04: 19 msec
+SEAL-VIEW05: 5 msec
+SEAL-VIEW06: 4 msec
+SEAL-VIEW07: 4 msec
+SEAL-VIEW08: 4 msec
+SEAL-VIEW09: 5 msec
+SEAL-VIEW10: 5 msec
+SEAL-VIEW11: 5 msec
+SEAL-VIEW12: 4 msec
+SEAL-VIEW13: 5 msec
+SEAL-VIEW14: 8 msec
+SEAL-VIEW15: 4 msec
+TREX_TRP: 4 msec
+SM59_dict :  {'SEAL-CONNC': 'Ok', 'SEAL-CONVUTIL': 'Ok', 'SEAL-CONVUTIL-1': 'Ok', 'SEAL-CONVUTIL-2': 'Ok', 'SEAL-CONVUTIL-3': 'Ok', 'SEAL-VIEW-CKL-CONV00': 'Ok', 'SEAL-VIEW-CKL-CONV01': 'Ok', 'SEAL-VIEW-CKL-CONV02': 'Ok', 'SEAL-VIEW-CKL-CONV03': 'Ok', 'SEAL-VIEW-CKL-CONV04': 'Ok', 'SEAL-VIEW00': 'Ok', 'SEAL-VIEW01': 'Ok', 'SEAL-VIEW02': 'Ok', 'SEAL-VIEW03': 'Ok', 'SEAL-VIEW04': 'Ok', 'SEAL-VIEW05': 'Ok', 'SEAL-VIEW06': 'Ok', 'SEAL-VIEW07': 'Ok', 'SEAL-VIEW08': 'Ok', 'SEAL-VIEW09': 'Ok', 'SEAL-VIEW10': 'Ok', 'SEAL-VIEW11': 'Ok', 'SEAL-VIEW12': 'Ok', 'SEAL-VIEW13': 'Ok', 'SEAL-VIEW14': 'Ok', 'SEAL-VIEW15': 'Ok', 'TREX_TRP': 'Ok'}
+FINAL VALUES: {'db02_dict': {'PSAPR3I': {'value': 88, 'status': 'Amber'}, 'PSAPUNDO': {'value': 74, 'status': 'Green'}, 'PSAPR3I750': {'value': 68, 'status': 'Green'}, 'PSAPR3IINDEX': {'value': 64, 'status': 'Green'}, 'PSAPSOFFCONT1': {'value': 86, 'status': 'Amber'}}, 'st06_dict': {'rcpu': {'value': 1.12, 'status': 'Green'}, 'disk': {'value': 20, 'status': 'Green'}}, 'st07_dict': {'wpo': {'value': 103, 'status': 'Green'}, 'act': {'value': 550, 'status': 'Amber'}}, 'st22_dict': {'value': 33, 'status': 'Green'}, 'sm37_dict': {'value': 0, 'status': 'Green', 'path': 'C:\\Users\\el491900\\OneDrive - GSK\\Desktop\\scripts\\venv\\AutosapBASIS/excel data/AutoSAP_2025-01-10-09-38-34//5 SM37 2025-01-10-09-38-34.png'}, 'se38_dict': {'logins': {'value': 5579, 'status': 'Green'}, 'sessions': {'value': 7702, 'status': 'Green'}, 'wps': {'value': 0, 'status': 'Green'}, 'cpu%': {'value': 28, 'status': 'Green'}}, 'sm59_dict': {'value': 0, 'status': 'Green'}}
+86 37
+XL Generated
+HTML Generated
+C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-10-09-38-34/\AutoSAP_html_summary_2025-01-10-09-38-34.html
+{'SEAL-CONNC': 'Ok', 'SEAL-CONVUTIL': 'Ok', 'SEAL-CONVUTIL-1': 'Ok', 'SEAL-CONVUTIL-2': 'Ok', 'SEAL-CONVUTIL-3': 'Ok', 'SEAL-VIEW-CKL-CONV00': 'Ok', 'SEAL-VIEW-CKL-CONV01': 'Ok', 'SEAL-VIEW-CKL-CONV02': 'Ok', 'SEAL-VIEW-CKL-CONV03': 'Ok', 'SEAL-VIEW-CKL-CONV04': 'Ok', 'SEAL-VIEW00': 'Ok', 'SEAL-VIEW01': 'Ok', 'SEAL-VIEW02': 'Ok', 'SEAL-VIEW03': 'Ok', 'SEAL-VIEW04': 'Ok', 'SEAL-VIEW05': 'Ok', 'SEAL-VIEW06': 'Ok', 'SEAL-VIEW07': 'Ok', 'SEAL-VIEW08': 'Ok', 'SEAL-VIEW09': 'Ok', 'SEAL-VIEW10': 'Ok', 'SEAL-VIEW11': 'Ok', 'SEAL-VIEW12': 'Ok', 'SEAL-VIEW13': 'Ok', 'SEAL-VIEW14': 'Ok', 'SEAL-VIEW15': 'Ok', 'TREX_TRP': 'Ok'}
+RFC XL Generated Successfully!
+ALL STATUS: ['Amber', 'Green', 'Green', 'Green', 'Amber', 'Green', 'Green', 'Green', 'Amber', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green']
+OVERALL STATUS: Amber
+
+##### Sender File #####
+erry.8.lavakumar@gsk.com erry.8.lavakumar@gsk.com
+0[RFC]_AutoSAP_XL2025-01-10-09-38-34.xlsx
+1 DB01 2025-01-10-09-38-34.png
+10 SE38 2025-01-10-09-38-34.html
+10 SE38 2025-01-10-09-38-34.png
+2 SM51 2025-01-10-09-38-34.png
+3 SM58 2025-01-10-09-38-34.png
+4 SMLG 2025-01-10-09-38-34.png
+5 SM37 2025-01-10-09-38-34.png
+6 DB02_TableSpace_2025-01-10-09-38-34.html
+7 ST06 CPU 2025-01-10-09-38-34.html
+7 ST06 Disk CPU 2025-01-10-09-38-34.png
+7 ST06 Memory 2025-01-10-09-38-34.html
+7 ST06 Rcpu 2025-01-10-09-38-34.html
+8 ST07 2025-01-10-09-38-34.html
+9 ST22_TimeOut Dumps.html
+AutoSAP_html_summary_2025-01-10-09-38-34.html
+AutoSAP_XL_2025-01-10-09-38-34.xlsx
+LOG2025-01-10-09-38-34.txt
+MAIL SENT SUCCESSFULLY

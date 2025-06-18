@@ -1,0 +1,82 @@
+Files will be stored in the path- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-14-42-44/
+
+in logon  
+No other session found
+Logon is Fine
+DB01- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-14-42-44/1 db01 2024-11-11-14-42-44.png
+SM51- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-14-42-44//2 sm51 2024-11-11-14-42-44.png
+SM58- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-14-42-44//3 sm58 2024-11-11-14-42-44.png
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) table not locked in smlg
+SMLG- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-14-42-44//4 smlg 2024-11-11-14-42-44.png
+DATEE 10.11.2024
+No job matches the selection criteria
+SM37- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-14-42-44//5 sm37 2024-11-11-14-42-44.png
+DB02 - {'PSAPR3I': {'value': 90, 'status': 'Amber'}, 'PSAPUNDO': {'value': 79, 'status': 'Green'}, 'PSAPR3I750': {'value': 68, 'status': 'Green'}, 'PSAPR3IINDEX': {'value': 87, 'status': 'Amber'}, 'PSAPSOFFCONT1': {'value': 84, 'status': 'Green'}}
+ragent or /opt/imperva:  7 %
+{'rixsasp1_SBP_00': 22, 'wavsap1d_SBP_23': 28, 'wavsap2d_SBP_24': 5, 'wavsap2p_SBP_08': 18, 'wavsap3d_SBP_30': 56, 'wavsap4d_SBP_22': 2, 'wavsap4p_SBP_06': 12, 'wavsap5d_SBP_21': 23, 'wavsap5p_SBP_07': 10, 'wavsap6p_SBP_09': 28, 'wavsap7p_SBP_04': 30, 'wavsap9p_SBP_10': 52}
+{'rixsasp1_SBP_00': 6.931, 'wavsap1d_SBP_23': 134.774, 'wavsap2d_SBP_24': 168.511, 'wavsap2p_SBP_08': 131.55100000000002, 'wavsap3d_SBP_30': 116.37299999999999, 'wavsap4d_SBP_22': 156.274, 'wavsap4p_SBP_06': 209.74400000000003, 'wavsap5d_SBP_21': 152.22799999999998, 'wavsap5p_SBP_07': 141.653, 'wavsap6p_SBP_09': 98.929, 'wavsap7p_SBP_04': 94.87200000000001, 'wavsap9p_SBP_10': 121.74799999999999}
+#ST06-Utilized 20
+7
+ST06- {'rcpu': {'value': 7, 'status': 'Red'}, 'disk': {'value': 20, 'status': 'Green'}}
+13
+WP Occupied- 44
+act- 250
+ST07- {'wpo': {'value': 44, 'status': 'Green'}, 'act': {'value': 250, 'status': 'Green'}}
+
+Dumps Count : 25
+ST22- {'value': 25, 'status': 'Green'}
+V134: 6 msec
+V135: 7 msec
+V136: 5 msec
+V137: 5 msec
+V138: 5 msec
+V139: 4 msec
+V140: 4 msec
+V141: 5 msec
+V142: 4 msec
+V143: 4 msec
+V144: 572 msec
+V145: 38 msec
+V146: 4 msec
+V147: 4 msec
+V148: 4 msec
+V149: 5 msec
+V150: 5 msec
+V151: 4 msec
+V152: 8 msec
+V153: 4 msec
+V154: 4 msec
+V155: 5 msec
+V156: 4 msec
+V157: 5 msec
+V158: 3 msec
+V159: 4 msec
+V164: 5 msec
+FINAL VALUES: {'db02_dict': {'PSAPR3I': {'value': 90, 'status': 'Amber'}, 'PSAPUNDO': {'value': 79, 'status': 'Green'}, 'PSAPR3I750': {'value': 68, 'status': 'Green'}, 'PSAPR3IINDEX': {'value': 87, 'status': 'Amber'}, 'PSAPSOFFCONT1': {'value': 84, 'status': 'Green'}}, 'st06_dict': {'rcpu': {'value': 7, 'status': 'Red'}, 'disk': {'value': 20, 'status': 'Green'}}, 'st07_dict': {'wpo': {'value': 44, 'status': 'Green'}, 'act': {'value': 250, 'status': 'Green'}}, 'st22_dict': {'value': 25, 'status': 'Green'}, 'sm37_dict': {'value': 0, 'status': 'Green', 'path': 'C:\\Users\\el491900\\OneDrive - GSK\\Desktop\\scripts\\venv\\AutosapBASIS/excel data/AutoSAP_2024-11-11-14-42-44//5 sm37 2024-11-11-14-42-44.png'}, 'se38_dict': {'logins': {'value': 2458, 'status': 'Green'}, 'sessions': {'value': 3190, 'status': 'Green'}, 'wps': {'value': 0, 'status': 'Green'}, 'cpu%': {'value': 12, 'status': 'Green'}}, 'sm59_dict': {'value': 0, 'status': 'Green'}}
+84 37
+XL Generated
+HTML Generated
+C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2024-11-11-14-42-44/\AutoSAP_html_summary_2024-11-11-14-42-44.html
+{134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok', 153: 'Ok', 154: 'Ok', 155: 'Ok', 156: 'Ok', 157: 'Ok', 158: 'Ok', 159: 'Ok', 164: 'Ok'}
+RFC XL Generated Successfully!
+ALL STATUS: ['Amber', 'Green', 'Green', 'Amber', 'Green', 'Red', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green']
+OVERALL STATUS: RED
+erry.8.lavakumar@gsk.com, nikhil.x.chalikwar@gsk.com, akoju.x.sharanya@gsk.com erry.8.lavakumar@gsk.com, nikhil.x.chalikwar@gsk.com, akoju.x.sharanya@gsk.com
+0[RFC]_AutoSAP_XL2024-11-11-14-42-44.xlsx
+1 db01 2024-11-11-14-42-44.png
+10 se38 2024-11-11-14-42-44.html
+2 sm51 2024-11-11-14-42-44.png
+3 sm58 2024-11-11-14-42-44.png
+4 smlg 2024-11-11-14-42-44.png
+5 sm37 2024-11-11-14-42-44.png
+6 DB02_report_2024-11-11-14-42-44.html
+7 Disk CPU 2024-11-11-14-42-44.png
+7 RAgent 2024-11-11-14-42-44.png
+7 ST06 CPU 2024-11-11-14-42-44.html
+7 ST06 Memory 2024-11-11-14-42-44.html
+8 st07 2024-11-11-14-42-44.html
+9 st22_report.html
+AutoSAP_html_summary_2024-11-11-14-42-44.html
+AutoSAP_XL_2024-11-11-14-42-44.xlsx
+LOG2024-11-11-14-42-44.txt
+MAIL SENT SUCCESSFULLY

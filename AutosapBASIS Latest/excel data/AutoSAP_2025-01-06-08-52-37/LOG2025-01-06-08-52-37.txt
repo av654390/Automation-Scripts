@@ -1,0 +1,119 @@
+Files will be stored in the path- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-06-08-52-37/
+
+in logon  
+No other session found
+Logon is Fine
+
+##### DB01 #####
+DB01: File/Screenshot Saved Successfully!!
+DB01- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-06-08-52-37/1 DB01 2025-01-06-08-52-37.png
+
+##### SM51 #####
+SM51 : File/Screenshot Saved Successfully!!
+SM51- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-06-08-52-37//2 SM51 2025-01-06-08-52-37.png
+
+##### SM58 #####
+SM58 : File/Screenshot Saved Successfully!!
+SM58- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-06-08-52-37//3 SM58 2025-01-06-08-52-37.png
+
+##### SMLG #####
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) Table not locked in smlg
+SMLG : File/Screenshot Saved Successfully!!
+SMLG- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-06-08-52-37//4 SMLG 2025-01-06-08-52-37.png
+
+##### SM37 #####
+DATEE 05.01.2025
+No job matches the selection criteria
+SM37 : File/Screenshot Saved Successfully!!
+SM37- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-06-08-52-37//5 SM37 2025-01-06-08-52-37.png
+
+##### DB02 #####
+DB02 - {'PSAPR3I': {'value': 87, 'status': 'Amber'}, 'PSAPUNDO': {'value': 68, 'status': 'Green'}, 'PSAPR3I750': {'value': 68, 'status': 'Green'}, 'PSAPR3IINDEX': {'value': 64, 'status': 'Green'}, 'PSAPSOFFCONT1': {'value': 85, 'status': 'Amber'}}
+
+##### ST06 #####
+For CPU Utilization :  {'rixsasp1_SBP_00': 36, 'wavsap1d_SBP_23': 12, 'wavsap2d_SBP_24': 39, 'wavsap2p_SBP_08': 9, 'wavsap3d_SBP_30': 29, 'wavsap4d_SBP_22': 28, 'wavsap4p_SBP_06': 5, 'wavsap5d_SBP_21': 13, 'wavsap5p_SBP_07': 16, 'wavsap6p_SBP_09': 28, 'wavsap7p_SBP_04': 67, 'wavsap9p_SBP_10': 38}
+For Free Memory : {'rixsasp1_SBP_00': 8.324, 'wavsap1d_SBP_23': 164.77700000000002, 'wavsap2d_SBP_24': 148.64700000000002, 'wavsap2p_SBP_08': 170.365, 'wavsap3d_SBP_30': 106.925, 'wavsap4d_SBP_22': 133.58700000000002, 'wavsap4p_SBP_06': 221.16, 'wavsap5d_SBP_21': 147.168, 'wavsap5p_SBP_07': 163.843, 'wavsap6p_SBP_09': 101.488, 'wavsap7p_SBP_04': 152.64, 'wavsap9p_SBP_10': 137.404}
+ST06 Disk CPU : File/Screenshot Saved Successfully!!
+C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-06-08-52-37/7 ST06 Disk CPU 2025-01-06-08-52-37.png
+Disk CPU Utilized 33
+R CPU% :  0.93
+ST06- {'rcpu': {'value': 0.93, 'status': 'Green'}, 'disk': {'value': 33, 'status': 'Green'}}
+
+##### ST07 #####
+Row No of 'Total' :  14
+WP Occupied- 86
+Active Users- 447
+ST07- {'wpo': {'value': 86, 'status': 'Green'}, 'act': {'value': 447, 'status': 'Green'}}
+
+##### ST22 #####
+
+Dumps Count : 30
+ST22- {'value': 30, 'status': 'Green'}
+
+##### SE38 #####
+Logins :  4707
+Session :  6231
+WPs Priv Mode:  0
+CPU Idle %: 70
+CPU Utilization %: 30
+
+##### SM59 #####
+V132: 3 msec
+V133: 11 msec
+V134: 4 msec
+V135: 5 msec
+V136: 6 msec
+V137: 4 msec
+V138: 3 msec
+V139: 4 msec
+V140: 3 msec
+V141: 4 msec
+V142: 4 msec
+V143: 3 msec
+V144: 3 msec
+V145: 4 msec
+V146: 4 msec
+V147: 4 msec
+V148: 4 msec
+V149: 3 msec
+V150: 3 msec
+V151: 5 msec
+V152: 4 msec
+V153: 5 msec
+V154: 3 msec
+V155: 3 msec
+V156: 4 msec
+V157: 3 msec
+V162: 3 msec
+SM59_dict :  {132: 'Ok', 133: 'Ok', 134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok', 153: 'Ok', 154: 'Ok', 155: 'Ok', 156: 'Ok', 157: 'Ok', 162: 'Ok'}
+FINAL VALUES: {'db02_dict': {'PSAPR3I': {'value': 87, 'status': 'Amber'}, 'PSAPUNDO': {'value': 68, 'status': 'Green'}, 'PSAPR3I750': {'value': 68, 'status': 'Green'}, 'PSAPR3IINDEX': {'value': 64, 'status': 'Green'}, 'PSAPSOFFCONT1': {'value': 85, 'status': 'Amber'}}, 'st06_dict': {'rcpu': {'value': 0.93, 'status': 'Green'}, 'disk': {'value': 33, 'status': 'Green'}}, 'st07_dict': {'wpo': {'value': 86, 'status': 'Green'}, 'act': {'value': 447, 'status': 'Green'}}, 'st22_dict': {'value': 30, 'status': 'Green'}, 'sm37_dict': {'value': 0, 'status': 'Green', 'path': 'C:\\Users\\el491900\\OneDrive - GSK\\Desktop\\scripts\\venv\\AutosapBASIS/excel data/AutoSAP_2025-01-06-08-52-37//5 SM37 2025-01-06-08-52-37.png'}, 'se38_dict': {'logins': {'value': 4707, 'status': 'Green'}, 'sessions': {'value': 6231, 'status': 'Green'}, 'wps': {'value': 0, 'status': 'Green'}, 'cpu%': {'value': 30, 'status': 'Green'}}, 'sm59_dict': {'value': 0, 'status': 'Green'}}
+85 37
+XL Generated
+HTML Generated
+C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-01-06-08-52-37/\AutoSAP_html_summary_2025-01-06-08-52-37.html
+{132: 'Ok', 133: 'Ok', 134: 'Ok', 135: 'Ok', 136: 'Ok', 137: 'Ok', 138: 'Ok', 139: 'Ok', 140: 'Ok', 141: 'Ok', 142: 'Ok', 143: 'Ok', 144: 'Ok', 145: 'Ok', 146: 'Ok', 147: 'Ok', 148: 'Ok', 149: 'Ok', 150: 'Ok', 151: 'Ok', 152: 'Ok', 153: 'Ok', 154: 'Ok', 155: 'Ok', 156: 'Ok', 157: 'Ok', 162: 'Ok'}
+{'Error while generating RFC Excel': KeyError(158,)}
+ALL STATUS: ['Amber', 'Green', 'Green', 'Green', 'Amber', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green']
+OVERALL STATUS: Amber
+
+##### Sender File #####
+erry.8.lavakumar@gsk.com erry.8.lavakumar@gsk.com
+0[RFC]_AutoSAP_XL2025-01-06-08-52-37.xlsx
+1 DB01 2025-01-06-08-52-37.png
+10 SE38 2025-01-06-08-52-37.html
+10 SE38 2025-01-06-08-52-37.png
+2 SM51 2025-01-06-08-52-37.png
+3 SM58 2025-01-06-08-52-37.png
+4 SMLG 2025-01-06-08-52-37.png
+5 SM37 2025-01-06-08-52-37.png
+6 DB02_TableSpace_2025-01-06-08-52-37.html
+7 ST06 CPU 2025-01-06-08-52-37.html
+7 ST06 Disk CPU 2025-01-06-08-52-37.png
+7 ST06 Memory 2025-01-06-08-52-37.html
+7 ST06 Rcpu 2025-01-06-08-52-37.html
+8 ST07 2025-01-06-08-52-37.html
+9 ST22_TimeOut Dumps.html
+AutoSAP_html_summary_2025-01-06-08-52-37.html
+AutoSAP_XL_2025-01-06-08-52-37.xlsx
+LOG2025-01-06-08-52-37.txt
+MAIL SENT SUCCESSFULLY

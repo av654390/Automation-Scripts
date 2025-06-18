@@ -1,0 +1,117 @@
+Files will be stored in the path- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-05-27-13-54-14/
+
+in logon  
+No other session found
+Logon is Fine
+
+##### DB01 #####
+DB01: File/Screenshot Saved Successfully!!
+DB01- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-05-27-13-54-14/1 DB01 2025-05-27-13-54-14.png
+
+##### SM51 #####
+SM51 : File/Screenshot Saved Successfully!!
+SM51- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-05-27-13-54-14//2 SM51 2025-05-27-13-54-14.png
+
+##### SM58 #####
+SM58 : File/Screenshot Saved Successfully!!
+SM58- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-05-27-13-54-14//3 SM58 2025-05-27-13-54-14.png
+
+##### SMLG #####
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) Table not locked in smlg
+SMLG : File/Screenshot Saved Successfully!!
+SMLG- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-05-27-13-54-14//4 SMLG 2025-05-27-13-54-14.png
+
+##### SM37 #####
+DATEE 26.05.2025
+No job matches the selection criteria
+SM37 : File/Screenshot Saved Successfully!!
+SM37- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-05-27-13-54-14//5 SM37 2025-05-27-13-54-14.png
+
+##### DB02 #####
+DB02 - {'PSAPR3I': {'value': np.int64(96), 'status': 'Red'}, 'PSAPUNDO': {'value': np.int64(44), 'status': 'Green'}, 'PSAPR3I750': {'value': np.int64(68), 'status': 'Green'}, 'PSAPR3IINDEX': {'value': 'Nan', 'status': 'Check Manually'}, 'PSAPSOFFCONT1': {'value': 'Nan', 'status': 'Check Manually'}}
+CPU Idle Values: [94 95 92 94]
+CPU Used Values: [6 5 8 6]
+Average CPU Used Value: 6.25
+ST06 CPU- {'AvgCPU': {'value': np.float64(6.25), 'status': 'Green'}}
+
+##### ST06 #####
+{'Error in ST06': KeyError("None of ['App.Server'] are in the columns")}
+ST06- {'rcpu': {'value': 'Nan', 'status': 'Check Manually'}, 'disk': {'value': 'Nan', 'status': 'Check Manually'}}
+
+##### ST07 #####
+Row No of 'Total' :  15
+WP Occupied- 76
+Active Users- 460
+ST07- {'wpo': {'value': np.int64(76), 'status': 'Green'}, 'act': {'value': np.int64(460), 'status': 'Green'}}
+
+##### ST22 #####
+
+Dumps Count : 40
+ST22- {'value': 40, 'status': 'Green'}
+
+##### SE38 #####
+SE38: Refresh Count exceeds 2
+Logins :  5226
+Session :  7694
+WPs Priv Mode:  0
+
+##### SM59 #####
+Length= 27
+SEAL-CONNC: 2 msec
+SEAL-CONVUTIL: 2 msec
+SEAL-CONVUTIL-1: 2 msec
+SEAL-CONVUTIL-2: 1 msec
+SEAL-CONVUTIL-3: 1 msec
+SEAL-VIEW-CKL-CONV00: 2 msec
+SEAL-VIEW-CKL-CONV01: 1 msec
+SEAL-VIEW-CKL-CONV02: 1 msec
+SEAL-VIEW-CKL-CONV03: 1 msec
+SEAL-VIEW-CKL-CONV04: 1 msec
+SEAL-VIEW00: 73 msec
+SEAL-VIEW01: 2 msec
+SEAL-VIEW02: 1 msec
+SEAL-VIEW03: 2 msec
+SEAL-VIEW04: 2 msec
+SEAL-VIEW05: 1 msec
+SEAL-VIEW06: 2 msec
+SEAL-VIEW07: 1 msec
+SEAL-VIEW08: 3 msec
+SEAL-VIEW09: 3 msec
+SEAL-VIEW10: 2 msec
+SEAL-VIEW11: 1 msec
+SEAL-VIEW12: 3 msec
+SEAL-VIEW13: 3 msec
+SEAL-VIEW14: 1 msec
+SEAL-VIEW15: 1 msec
+TREX_TRP: 1 msec
+SM59_dict :  {'SEAL-CONNC': 'Ok', 'SEAL-CONVUTIL': 'Ok', 'SEAL-CONVUTIL-1': 'Ok', 'SEAL-CONVUTIL-2': 'Ok', 'SEAL-CONVUTIL-3': 'Ok', 'SEAL-VIEW-CKL-CONV00': 'Ok', 'SEAL-VIEW-CKL-CONV01': 'Ok', 'SEAL-VIEW-CKL-CONV02': 'Ok', 'SEAL-VIEW-CKL-CONV03': 'Ok', 'SEAL-VIEW-CKL-CONV04': 'Ok', 'SEAL-VIEW00': 'Ok', 'SEAL-VIEW01': 'Ok', 'SEAL-VIEW02': 'Ok', 'SEAL-VIEW03': 'Ok', 'SEAL-VIEW04': 'Ok', 'SEAL-VIEW05': 'Ok', 'SEAL-VIEW06': 'Ok', 'SEAL-VIEW07': 'Ok', 'SEAL-VIEW08': 'Ok', 'SEAL-VIEW09': 'Ok', 'SEAL-VIEW10': 'Ok', 'SEAL-VIEW11': 'Ok', 'SEAL-VIEW12': 'Ok', 'SEAL-VIEW13': 'Ok', 'SEAL-VIEW14': 'Ok', 'SEAL-VIEW15': 'Ok', 'TREX_TRP': 'Ok'}
+FINAL VALUES: {'db02_dict': {'PSAPR3I': {'value': np.int64(96), 'status': 'Red'}, 'PSAPUNDO': {'value': np.int64(44), 'status': 'Green'}, 'PSAPR3I750': {'value': np.int64(68), 'status': 'Green'}, 'PSAPR3IINDEX': {'value': 'Nan', 'status': 'Check Manually'}, 'PSAPSOFFCONT1': {'value': 'Nan', 'status': 'Check Manually'}}, 'st06_cpu_dict': {'AvgCPU': {'value': np.float64(6.25), 'status': 'Green'}}, 'st06_dict': {'rcpu': {'value': 'Nan', 'status': 'Check Manually'}, 'disk': {'value': 'Nan', 'status': 'Check Manually'}}, 'st07_dict': {'wpo': {'value': np.int64(76), 'status': 'Green'}, 'act': {'value': np.int64(460), 'status': 'Green'}}, 'st22_dict': {'value': 40, 'status': 'Green'}, 'sm37_dict': {'value': 0, 'status': 'Green', 'path': 'C:\\Users\\el491900\\OneDrive - GSK\\Desktop\\scripts\\venv\\AutosapBASIS/excel data/AutoSAP_2025-05-27-13-54-14//5 SM37 2025-05-27-13-54-14.png'}, 'se38_dict': {'logins': {'value': np.int64(5226), 'status': 'Green'}, 'sessions': {'value': np.int64(7694), 'status': 'Green'}, 'wps': {'value': np.int64(0), 'status': 'Green'}, 'cpu%': {'value': 'Nan', 'status': 'Check Manually'}}, 'sm59_dict': {'value': 0, 'status': 'Green'}}
+68 32
+XL Generated
+HTML Generated
+C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapBASIS/excel data/AutoSAP_2025-05-27-13-54-14/\AutoSAP_html_summary_2025-05-27-13-54-14.html
+{'SEAL-CONNC': 'Ok', 'SEAL-CONVUTIL': 'Ok', 'SEAL-CONVUTIL-1': 'Ok', 'SEAL-CONVUTIL-2': 'Ok', 'SEAL-CONVUTIL-3': 'Ok', 'SEAL-VIEW-CKL-CONV00': 'Ok', 'SEAL-VIEW-CKL-CONV01': 'Ok', 'SEAL-VIEW-CKL-CONV02': 'Ok', 'SEAL-VIEW-CKL-CONV03': 'Ok', 'SEAL-VIEW-CKL-CONV04': 'Ok', 'SEAL-VIEW00': 'Ok', 'SEAL-VIEW01': 'Ok', 'SEAL-VIEW02': 'Ok', 'SEAL-VIEW03': 'Ok', 'SEAL-VIEW04': 'Ok', 'SEAL-VIEW05': 'Ok', 'SEAL-VIEW06': 'Ok', 'SEAL-VIEW07': 'Ok', 'SEAL-VIEW08': 'Ok', 'SEAL-VIEW09': 'Ok', 'SEAL-VIEW10': 'Ok', 'SEAL-VIEW11': 'Ok', 'SEAL-VIEW12': 'Ok', 'SEAL-VIEW13': 'Ok', 'SEAL-VIEW14': 'Ok', 'SEAL-VIEW15': 'Ok', 'TREX_TRP': 'Ok'}
+{'Error while generating RFC Excel': AttributeError("'str' object has no attribute 'items'")}
+ALL STATUS: ['Red', 'Green', 'Green', 'Check Manually', 'Check Manually', 'Green', 'Check Manually', 'Check Manually', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Green', 'Check Manually', 'Green']
+OVERALL STATUS: Red
+
+##### Sender File #####
+krishnamurthy.x.k@gsk.com, SABINE.RAVET@GSK.COM, globalerpsm@gsk.com sivakaminathan.x.palaniappan@gsk.com, jay.x.menon@gsk.com, amit.k.prabhakar@gsk.com, sunil.k.s@gsk.com, ramakrishnareddy.x.banda@gsk.com, ITTCSESAT@gsk.com, ga&dSAPBASISopsind@gsk.com, anil.x.reddy@gsk.com, preetham.x.aranha@gsk.com, hareesh.x.s@gsk.com, shiva.x.prasad@gsk.com, akash.2.verma@gsk.com
+0[RFC]_AutoSAP_XL2025-05-27-13-54-14.xlsx
+1 DB01 2025-05-27-13-54-14.png
+10 ST22_TimeOut Dumps.html
+11 SE38 2025-05-27-13-54-14.html
+11 SE38 2025-05-27-13-54-14.png
+2 SM51 2025-05-27-13-54-14.png
+3 SM58 2025-05-27-13-54-14.png
+4 SMLG 2025-05-27-13-54-14.png
+5 SM37 2025-05-27-13-54-14.png
+6 DB02_TableSpace_2025-05-27-13-54-14.html
+7 [SBP] ST06 2025-05-27-13-54-14.html
+8 ST06 CPU 2025-05-27-13-54-14.html
+8 ST06 Memory 2025-05-27-13-54-14.html
+9 ST07 2025-05-27-13-54-14.html
+AutoSAP_html_summary_2025-05-27-13-54-14.html
+AutoSAP_XL_2025-05-27-13-54-14.xlsx
+LOG2025-05-27-13-54-14.txt
+MAIL SENT SUCCESSFULLY
