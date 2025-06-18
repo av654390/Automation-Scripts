@@ -1,0 +1,358 @@
+27.05.2025                     Overview of Installed Certificates                                  1
+
+System		      PROG <SYST>
+
+  Own Certificate
+  CN=MGP, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE                01.01.2038
+
+  Certificate List
+   1  = CN=SOP                                                                      01.01.2038
+   2  = OU=J2EE, CN=RSP                                                             28.01.2031
+   3  = CN=RPP, OU=J2EE, C=US                                                       24.02.2044
+   4  = CN=RSP, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   5  = CN=MGP, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   6  = CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US       15.01.2038
+   7  = CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US       10.11.2031
+   8  = CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, 10.11.2031
+   9  = CN=SJP, OU=J2EE, C=UK                                                       18.01.2044
+  10  = CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 20 16.07.2036
+  11  = CN=USERTrust RSA Certification Authority, O=The USERTRUST Network, L=Jersey 31.12.2028
+  12  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+  13  = CN=Sectigo RSA Organization Validation Secure Server CA, O=Sectigo Limited, 31.12.2030
+  14  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  15  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  16  = EMAIL=support@certificates.gsk.com, CN=GSK 2048-bit SHA256 SSL Certificate  29.06.2045
+  17  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  18  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  19  = CN=us6salxsccprda01.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  20  = CN=us6salxsccprda02.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  21  = CN=us6salxsccprda02.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  22  = CN=fiori.gsk.com, O=GlaxoSmithKline Holdings Ltd, SP=Middlesex, C=GB        19.02.2026
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=MGP, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE
+Namespace:
+Profiles:     /usr/sap/MGP/D80/sec/SAPSYS.pse
+
+OK: File exists, length:                                         30.729
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.47 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+<SNCS>		      PROG <SNCS>
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+SMIME Standard		      SMIM DFAULT
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+Collaboration Integration Library: oAuth Appl.		      SSFA CLBOAU
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+SAML2 Service Provider - Encryption		      SSFA S2SVPE
+
+  Own Certificate
+  CN=MGP_SSFA_S2SVPE, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE    01.01.2038
+
+
+Checking the PSE
+
+27.05.2025                     Overview of Installed Certificates                                  2
+
+Application server PSE:
+ID:           CN=MGP_SSFA_S2SVPE, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE
+Namespace:
+Profiles:     /usr/sap/MGP/D80/sec/SAPSSF_S2SVPE600.pse
+
+OK: File exists, length:                                          2.063
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.47 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+SAML2 Service Provider - Signature		      SSFA S2SVPS
+
+  Own Certificate
+  CN=MGP_SSFA_S2SVPS, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE    01.01.2038
+
+  Certificate List
+   1  = CN=federation.gsk.com, OU=AdvancedAuthentication, O=GSK LLC, L=RTP, SP=NC,  15.02.2027
+   2  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=MGP_SSFA_S2SVPS, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE
+Namespace:
+Profiles:     /usr/sap/MGP/D80/sec/SAPSSF_S2SVPS600.pse
+
+OK: File exists, length:                                          4.968
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.47 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+Logon Ticket		      SSFA SSO2
+
+  Own Certificate
+  CN=MGP, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE                01.01.2038
+
+  Certificate List
+   1  = CN=SOP                                                                      01.01.2038
+   2  = OU=J2EE, CN=RSP                                                             28.01.2031
+   3  = CN=RPP, OU=J2EE, C=US                                                       24.02.2044
+   4  = CN=RSP, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   5  = CN=MGP, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   6  = CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US       15.01.2038
+   7  = CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US       10.11.2031
+   8  = CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, 10.11.2031
+   9  = CN=SJP, OU=J2EE, C=UK                                                       18.01.2044
+  10  = CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 20 16.07.2036
+  11  = CN=USERTrust RSA Certification Authority, O=The USERTRUST Network, L=Jersey 31.12.2028
+  12  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+  13  = CN=Sectigo RSA Organization Validation Secure Server CA, O=Sectigo Limited, 31.12.2030
+  14  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  15  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  16  = EMAIL=support@certificates.gsk.com, CN=GSK 2048-bit SHA256 SSL Certificate  29.06.2045
+  17  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+27.05.2025                     Overview of Installed Certificates                                  3
+
+  18  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  19  = CN=us6salxsccprda01.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  20  = CN=us6salxsccprda02.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  21  = CN=us6salxsccprda02.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  22  = CN=fiori.gsk.com, O=GlaxoSmithKline Holdings Ltd, SP=Middlesex, C=GB        19.02.2026
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=MGP, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE
+Namespace:
+Profiles:     /usr/sap/MGP/D80/sec/SAPSYS.pse
+
+OK: File exists, length:                                         30.729
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.47 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+SSL Client (Anonymous)		      SSLC ANONYM
+
+  Own Certificate
+  CN=anonymous                                                                      01.01.2038
+
+  Certificate List
+   1  = CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US       15.01.2038
+   2  = CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US       10.11.2031
+   3  = CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, 10.11.2031
+   4  = CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 20 16.07.2036
+   5  = CN=us6salxsccprda01.corpnet2.com, L=London, OU=CERPS, O=GSK, C=UK           05.12.2025
+   6  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+   7  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+   8  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+   9  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  10  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=anonymous
+Namespace:
+Profiles:     /usr/sap/MGP/D80/sec/SAPSSLA.pse
+
+OK: File exists, length:                                         15.572
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.47 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+SSL Client (Standard)		      SSLC DFAULT
+
+  Own Certificate
+  CN=us1gcpsd01701.corpnet2.com, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Commun  01.01.2038
+
+  Certificate List
+27.05.2025                     Overview of Installed Certificates                                  4
+
+   1  = CN=MGP, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   2  = CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US       15.01.2038
+   3  = CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US       10.11.2031
+   4  = CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, 10.11.2031
+   5  = CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 20 16.07.2036
+   6  = EMAIL=support@certificates.gsk.com, CN=GSK 1024-bit SHA256 SSL Certificate  29.06.2045
+   7  = CN=us6salxsccprda01.corpnet2.com, L=London, OU=CERPS, O=GSK, C=UK           05.12.2025
+   8  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+   9  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  10  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  11  = EMAIL=support@certificates.gsk.com, CN=GSK 2048-bit SHA256 SSL Certificate  29.06.2045
+  12  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  13  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  14  = EMAIL=support@certificates.gsk.com, CN=GSK 3072-bit SHA256 SSL Certificate  29.06.2045
+  15  = EMAIL=support@certificates.gsk.com, CN=GSK 4096-bit SHA256 SSL Certificate  29.06.2045
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=us1gcpsd01701.corpnet2.com, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C
+Namespace:
+Profiles:     /usr/sap/MGP/D80/sec/SAPSSLC.pse
+
+OK: File exists, length:                                         23.703
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.47 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+WSSE Web Service Security Test		      SSLC WSSE
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+Standard		      WSSE DFAULT
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+Other System Encryption Certificates		      WSSE WSSCRT
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+WS Security Keys		      WSSE WSSKEY
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+
+
+SSL server Standard		      SSLS DFAULT
+
+	us6salxmgp101_MGP_80
+
+  Own Certificate
+  CN=fiori.gsk.com, O=GlaxoSmithKline Holdings Ltd, SP=Middlesex, C=GB              19.02.2026
+
+  Certificate List
+   1  = OU=J2EE, CN=RPP                                                             19.01.2031
+   2  = CN=MGP, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   3  = CN=AAA Certificate Services, O=Comodo CA Limited, L=Salford, SP=Greater Man 31.12.2028
+   4  = EMAIL=support@certificates.gsk.com, CN=GSK 1024-bit SHA256 SSL Certificate  29.06.2045
+   5  = CN=USERTrust RSA Certification Authority, O=The USERTRUST Network, L=Jersey 31.12.2028
+   6  = CN=us6salxsccprda01.corpnet2.com, L=London, OU=CERPS, O=GSK, C=UK           05.12.2025
+   7  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+   8  = CN=Sectigo RSA Organization Validation Secure Server CA, O=Sectigo Limited, 31.12.2030
+27.05.2025                     Overview of Installed Certificates                                  5
+
+   9  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  10  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  11  = EMAIL=support@certificates.gsk.com, CN=GSK 2048-bit SHA256 SSL Certificate  29.06.2045
+  12  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  13  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  14  = CN=us6salxsccprda01.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  15  = CN=us6salxsccprda02.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  16  = CN=us6salxsccprda02.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  17  = CN=fiori.gsk.com, O=GlaxoSmithKline Holdings Ltd, SP=Middlesex, C=GB        19.02.2026
+  18  = EMAIL=support@certificates.gsk.com, CN=GSK 3072-bit SHA256 SSL Certificate  29.06.2045
+  19  = EMAIL=support@certificates.gsk.com, CN=GSK 4096-bit SHA256 SSL Certificate  29.06.2045
+
+	us6salxmgp102_MGP_80
+
+  Own Certificate
+  CN=fiori.gsk.com, O=GlaxoSmithKline Holdings Ltd, SP=Middlesex, C=GB              19.02.2026
+
+  Certificate List
+   1  = OU=J2EE, CN=RPP                                                             19.01.2031
+   2  = CN=MGP, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   3  = CN=AAA Certificate Services, O=Comodo CA Limited, L=Salford, SP=Greater Man 31.12.2028
+   4  = EMAIL=support@certificates.gsk.com, CN=GSK 1024-bit SHA256 SSL Certificate  29.06.2045
+   5  = CN=USERTrust RSA Certification Authority, O=The USERTRUST Network, L=Jersey 31.12.2028
+   6  = CN=us6salxsccprda01.corpnet2.com, L=London, OU=CERPS, O=GSK, C=UK           05.12.2025
+   7  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+   8  = CN=Sectigo RSA Organization Validation Secure Server CA, O=Sectigo Limited, 31.12.2030
+   9  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  10  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  11  = EMAIL=support@certificates.gsk.com, CN=GSK 2048-bit SHA256 SSL Certificate  29.06.2045
+  12  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  13  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  14  = CN=us6salxsccprda01.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  15  = CN=us6salxsccprda02.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  16  = CN=us6salxsccprda02.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  17  = CN=fiori.gsk.com, O=GlaxoSmithKline Holdings Ltd, SP=Middlesex, C=GB        19.02.2026
+  18  = EMAIL=support@certificates.gsk.com, CN=GSK 3072-bit SHA256 SSL Certificate  29.06.2045
+  19  = EMAIL=support@certificates.gsk.com, CN=GSK 4096-bit SHA256 SSL Certificate  29.06.2045
+
+	us6salxmgp201_MGP_80
+
+  Own Certificate
+  CN=fiori.gsk.com, O=GlaxoSmithKline Holdings Ltd, SP=Middlesex, C=GB              19.02.2026
+
+  Certificate List
+   1  = OU=J2EE, CN=RPP                                                             19.01.2031
+   2  = CN=MGP, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   3  = CN=AAA Certificate Services, O=Comodo CA Limited, L=Salford, SP=Greater Man 31.12.2028
+   4  = EMAIL=support@certificates.gsk.com, CN=GSK 1024-bit SHA256 SSL Certificate  29.06.2045
+   5  = CN=USERTrust RSA Certification Authority, O=The USERTRUST Network, L=Jersey 31.12.2028
+   6  = CN=us6salxsccprda01.corpnet2.com, L=London, OU=CERPS, O=GSK, C=UK           05.12.2025
+   7  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+   8  = CN=Sectigo RSA Organization Validation Secure Server CA, O=Sectigo Limited, 31.12.2030
+   9  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  10  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  11  = EMAIL=support@certificates.gsk.com, CN=GSK 2048-bit SHA256 SSL Certificate  29.06.2045
+  12  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  13  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  14  = CN=us6salxsccprda01.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  15  = CN=us6salxsccprda02.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  16  = CN=us6salxsccprda02.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  17  = CN=fiori.gsk.com, O=GlaxoSmithKline Holdings Ltd, SP=Middlesex, C=GB        19.02.2026
+  18  = EMAIL=support@certificates.gsk.com, CN=GSK 3072-bit SHA256 SSL Certificate  29.06.2045
+  19  = EMAIL=support@certificates.gsk.com, CN=GSK 4096-bit SHA256 SSL Certificate  29.06.2045
+27.05.2025                     Overview of Installed Certificates                                  6
+
+	us6salxmgp202_MGP_80
+
+  Own Certificate
+  CN=fiori.gsk.com, O=GlaxoSmithKline Holdings Ltd, SP=Middlesex, C=GB              19.02.2026
+
+  Certificate List
+   1  = OU=J2EE, CN=RPP                                                             19.01.2031
+   2  = CN=MGP, OU=I0020832560, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   3  = CN=AAA Certificate Services, O=Comodo CA Limited, L=Salford, SP=Greater Man 31.12.2028
+   4  = EMAIL=support@certificates.gsk.com, CN=GSK 1024-bit SHA256 SSL Certificate  29.06.2045
+   5  = CN=USERTrust RSA Certification Authority, O=The USERTRUST Network, L=Jersey 31.12.2028
+   6  = CN=us6salxsccprda01.corpnet2.com, L=London, OU=CERPS, O=GSK, C=UK           05.12.2025
+   7  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+   8  = CN=Sectigo RSA Organization Validation Secure Server CA, O=Sectigo Limited, 31.12.2030
+   9  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  10  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  11  = EMAIL=support@certificates.gsk.com, CN=GSK 2048-bit SHA256 SSL Certificate  29.06.2045
+  12  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  13  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  14  = CN=us6salxsccprda01.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  15  = CN=us6salxsccprda02.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  16  = CN=us6salxsccprda02.corpnet2.com, OU=CERPS, O=GSK, L=London, C=GB           07.09.2025
+  17  = CN=fiori.gsk.com, O=GlaxoSmithKline Holdings Ltd, SP=Middlesex, C=GB        19.02.2026
+  18  = EMAIL=support@certificates.gsk.com, CN=GSK 3072-bit SHA256 SSL Certificate  29.06.2045
+  19  = EMAIL=support@certificates.gsk.com, CN=GSK 4096-bit SHA256 SSL Certificate  29.06.2045

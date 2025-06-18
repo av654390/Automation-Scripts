@@ -1,0 +1,63 @@
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+Start Date: 17.04.2025, Start Time: 10:13:06
+End Date: 17.04.2025, End Time: 11:13:06
+
+val11 === 0
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in RZ03
+val1 === None
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) table not locked in smlg
+val2 === None
+Update is active
+val9 === Active
+val4=== None
+val5=== None
+val6=== None
+val7=== None
+val3 === None
+S_TL_G
+val10 === Green
+0
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+Start Date: 17.04.2025, Start Time: 10:13:36
+End Date: 17.04.2025, End Time: 11:13:36
+
+val11 === 2
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in RZ03
+val1 === 9
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) table not locked in smlg
+val2 === 482.0
+Update is active
+val9 === Active
+val4=== 0
+val5=== 0
+val6=== 0
+val7=== 0
+val3 === 0
+0
+akoju.x.sharanya@gsk.com akoju.x.sharanya@gsk.com
+10 [RBP] ldap 2025-04-17-11-12-58.png
+11 [RWP] st22dumps 2025-04-17-11-12-58.html
+12 [RWP] rz03 2025-04-17-11-12-58.html
+13 [RWP] smlg 2025-04-17-11-12-58.html
+14 [RWP] sm14 2025-04-17-11-12-58.png
+15 [RWP] smq1 2025-04-17-11-12-58.html
+16 [RWP] smq1 2025-04-17-11-12-58.html
+17 [RWP] smq2 2025-04-17-11-12-58.html
+18 [RWP] smq2 2025-04-17-11-12-58.html
+19 [RWP] sm58 2025-04-17-11-12-58.html
+20 [RWP] st04 2025-04-17-11-12-58.png
+4 [RBP] sm14 2025-04-17-11-12-58.png
+Autosapexcel_sheet-2025-04-17-11-12-58.html
+Autosapexcel_sheet-2025-04-17-11-12-58.xlsx
+LOG2025-04-17-11-12-58.txt
+s_s_ledg.gif
+MAIL SENT SUCCESSFULLY
+None

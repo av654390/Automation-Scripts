@@ -1,0 +1,32 @@
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+12:00:25
+13:00:25
+val11 === 74
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in RZ03
+val1 === 12
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) table not locked in smlg
+val2 === 1068.0
+Update is active
+val9 === Active
+val4=== 0
+val5=== 0
+val6=== 0
+val7=== 20
+val3 === 0
+S_TL_G
+val10 === Green
+0
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+12:01:07
+13:01:07
+val11 === None
+Error in system RWP: '<' not supported between instances of 'NoneType' and 'int'
+Mail sent!

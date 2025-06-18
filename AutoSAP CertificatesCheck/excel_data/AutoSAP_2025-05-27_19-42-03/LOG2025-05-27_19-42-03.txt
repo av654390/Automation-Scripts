@@ -1,0 +1,61 @@
+Sub directory for RBP is C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutoSAP CertificatesCheck//excel_data//AutoSAP_2025-05-27_19-42-03//RBP
+{"Error in 'Job Overview Layout' in RBP System": AttributeError("'str' object has no attribute 'findById'")}
+{'Error in calling tcode function': AttributeError("'str' object has no attribute 'findById'")}
+{'LogOff Error': AttributeError("'str' object has no attribute 'findById'")}
+Error in LogOff
+Sub directory for RAP is C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutoSAP CertificatesCheck//excel_data//AutoSAP_2025-05-27_19-42-03//RAP
+{"Error in 'Job Overview Layout' in RAP System": AttributeError("'str' object has no attribute 'findById'")}
+{'Error in calling tcode function': AttributeError("'str' object has no attribute 'findById'")}
+{'LogOff Error': AttributeError("'str' object has no attribute 'findById'")}
+Error in LogOff
+Sub directory for LMP is C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutoSAP CertificatesCheck//excel_data//AutoSAP_2025-05-27_19-42-03//LMP
+{"Error in 'Job Overview Layout' in LMP System": AttributeError("'str' object has no attribute 'findById'")}
+{'Error in calling tcode function': AttributeError("'str' object has no attribute 'findById'")}
+{'LogOff Error': AttributeError("'str' object has no attribute 'findById'")}
+Error in LogOff
+Sub directory for SLP is C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutoSAP CertificatesCheck//excel_data//AutoSAP_2025-05-27_19-42-03//SLP
+{"Error in 'Job Overview Layout' in SLP System": AttributeError("'str' object has no attribute 'findById'")}
+{'Error in calling tcode function': AttributeError("'str' object has no attribute 'findById'")}
+{'LogOff Error': AttributeError("'str' object has no attribute 'findById'")}
+Error in LogOff
+Sub directory for MGP is C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutoSAP CertificatesCheck//excel_data//AutoSAP_2025-05-27_19-42-03//MGP
+{"Error in 'Job Overview Layout' in MGP System": AttributeError("'str' object has no attribute 'findById'")}
+{'Error in calling tcode function': AttributeError("'str' object has no attribute 'findById'")}
+{'LogOff Error': AttributeError("'str' object has no attribute 'findById'")}
+Error in LogOff
+Sub directory for ATP is C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutoSAP CertificatesCheck//excel_data//AutoSAP_2025-05-27_19-42-03//ATP
+{"Error in 'Job Overview Layout' in ATP System": AttributeError("'str' object has no attribute 'findById'")}
+{'Error in calling tcode function': AttributeError("'str' object has no attribute 'findById'")}
+{'LogOff Error': AttributeError("'str' object has no attribute 'findById'")}
+Error in LogOff
+Sub directory for RWP is C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutoSAP CertificatesCheck//excel_data//AutoSAP_2025-05-27_19-42-03//RWP
+{"Error in 'Job Overview Layout' in RWP System": AttributeError("'str' object has no attribute 'findById'")}
+{'Error in calling tcode function': AttributeError("'str' object has no attribute 'findById'")}
+{'LogOff Error': AttributeError("'str' object has no attribute 'findById'")}
+Error in LogOff
+Sub directory for BNP is C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutoSAP CertificatesCheck//excel_data//AutoSAP_2025-05-27_19-42-03//BNP
+{"Error in 'Job Overview Layout' in BNP System": AttributeError("'str' object has no attribute 'findById'")}
+{'Error in calling tcode function': AttributeError("'str' object has no attribute 'findById'")}
+{'LogOff Error': AttributeError("'str' object has no attribute 'findById'")}
+Error in LogOff
+Sub directory for GTP is C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutoSAP CertificatesCheck//excel_data//AutoSAP_2025-05-27_19-42-03//GTP
+{"Error in 'Job Overview Layout' in GTP System": AttributeError("'str' object has no attribute 'findById'")}
+{'Error in calling tcode function': AttributeError("'str' object has no attribute 'findById'")}
+{'LogOff Error': AttributeError("'str' object has no attribute 'findById'")}
+Error in LogOff
+Sub directory for LTP is C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutoSAP CertificatesCheck//excel_data//AutoSAP_2025-05-27_19-42-03//LTP
+{"Error in 'Job Overview Layout' in LTP System": AttributeError("'str' object has no attribute 'findById'")}
+{'Error in calling tcode function': AttributeError("'str' object has no attribute 'findById'")}
+{'LogOff Error': AttributeError("'str' object has no attribute 'findById'")}
+Error in LogOff
+Sub directory for CWP is C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutoSAP CertificatesCheck//excel_data//AutoSAP_2025-05-27_19-42-03//CWP
+{"Error in 'Job Overview Layout' in CWP System": AttributeError("'str' object has no attribute 'findById'")}
+{'Error in calling tcode function': AttributeError("'str' object has no attribute 'findById'")}
+{'LogOff Error': AttributeError("'str' object has no attribute 'findById'")}
+Error in LogOff
+Output Dictionary : {}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PATHH: C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutoSAP CertificatesCheck//excel_data//AutoSAP_2025-05-27_19-42-03//RBP
+{'report error': KeyError('RBP')}
+Mail Sent To:
+erry.8.lavakumar@gsk.com, akoju.x.sharanya@gsk.com erry.8.lavakumar@gsk.com /n

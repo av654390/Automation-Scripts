@@ -1,0 +1,22 @@
+Routines Automation Steps:
+
+ 1. Read Data from Servicenow API
+ 2. Split based on catagory (i.e 113, 114, 115)
+ 3. Process 115 catagory:
+		If DP Number : dp115( )
+		   Invoice : dp115( )
+		   Purchase Document:
+		   Supplier Request: supp115( )
+		   GMM Request: gmm115( )
+		   Customer : cus115( )
+		   Notification: not115( )
+		   Urgent Payment Req: not115( )
+		   Sales Order:
+		   
+ 4. Error Cases : ["DP not found", "DP Error", "DP status", "No valid rows found", "No overall view", "User Not Found"]
+	Error Code - 1: Successful Case. [Entire flow is completed and returns 1]
+				 2:	DP error
+				 3: DP Status
+				 4: User not found
+				 5: Unexpected Error
+				 6: If role is AP OFF shore and the User not belongs to APOFFshore Team

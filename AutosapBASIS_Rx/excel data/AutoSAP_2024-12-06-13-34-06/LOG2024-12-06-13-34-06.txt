@@ -1,0 +1,61 @@
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in RZ03
+val1 === 12
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) table not locked in smlg
+val2 === 572.0
+Update is active
+val9 === Active
+val4=== 0
+val5=== 0
+val6=== 0
+val7=== 0
+val3 === 0
+S_TL_G
+val10 === Green
+0
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in RZ03
+val1 === 9
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) table not locked in smlg
+val2 === 1478.0
+Update is active
+val9 === Active
+val4=== 0
+val5=== 0
+val6=== 0
+val7=== 0
+val3 === 0
+0
+ESAT_BASIS_System_owners@gsk.com anil.x.reddy@gsk.com, preetham.x.aranha@gsk.com, ITTCSESAT@gsk.com
+1 [RBP] rz03 2024-12-06-13-34-06.html
+10 [RWP] rz03 2024-12-06-13-34-06.html
+11 [RWP] smlg 2024-12-06-13-34-06.html
+12 [RWP] sm14 2024-12-06-13-34-06.png
+13 [RWP] smq1 2024-12-06-13-34-06.html
+14 [RWP] smq1 2024-12-06-13-34-06.html
+15 [RWP] smq2 2024-12-06-13-34-06.html
+16 [RWP] smq2 2024-12-06-13-34-06.html
+17 [RWP] sm58 2024-12-06-13-34-06.html
+18 [RWP] st04 2024-12-06-13-34-06.png
+2 [RBP] smlg 2024-12-06-13-34-06.html
+3 [RBP] sm14 2024-12-06-13-34-06.png
+4 [RBP] smq1 2024-12-06-13-34-06.html
+5 [RBP] smq1 2024-12-06-13-34-06.html
+6 [RBP] smq2 2024-12-06-13-34-06.html
+7 [RBP] smq2 2024-12-06-13-34-06.html
+8 [RBP] sm58 2024-12-06-13-34-06.html
+9 [RBP] ldap 2024-12-06-13-34-06.png
+Autosapexcel_sheet-2024-12-06-13-34-06.html
+Autosapexcel_sheet-2024-12-06-13-34-06.xlsx
+LOG2024-12-06-13-34-06.txt
+s_s_ledg.gif
+MAIL SENT SUCCESSFULLY
+None

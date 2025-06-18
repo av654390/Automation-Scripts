@@ -1,0 +1,13 @@
+{
+"RBP": "1.1 - RBP - SAP ERP 6.0(R/3) System",
+"RAP": "1.3 - RAP-SAP SCM(APO) System",
+"LMP": "1.5 - LMP-SLM Sell Side",
+"SLP": "1.4 - SLP -SAP SLM Buy Side",
+"MGP": "1.D - MGP - SAP FIORI Application",
+"ATP": "1.6 - ATP-SAP Advance Track and Trace",
+"RWP": "1.2 - RWP-SAP BW  System",
+"BNP": "1.G - BNP - SAP NFe (Mastersaf) System",
+"GTP": "1.8 - GTP-SAP Global Batch Trace",
+"LTP": "1.9 - LTP -Information Lifecycle Management",
+"CWP": "1.A - CWP - SAP BW/4 HANA System"
+}

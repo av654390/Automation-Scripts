@@ -1,0 +1,274 @@
+﻿27.05.2025                     Overview of Installed Certificates                                  1
+
+System		      PROG <SYST>
+
+  Own Certificate
+  CN=SLP, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Community, C=DE                01.01.2038
+
+  Certificate List
+   1  = CN=SOP                                                                      01.01.2038
+   2  = OU=J2EE, CN=RSP                                                             28.01.2031
+   3  = CN=POP, L=J2EE, C=US                                                        18.12.2043
+   4  = CN=RPP, OU=J2EE, C=US                                                       24.02.2044
+   5  = CN=RSP, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   6  = CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US       15.01.2038
+   7  = CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US       10.11.2031
+   8  = CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, 10.11.2031
+   9  = OU="GSK SSL Certificate Authority ", CN="GSK SSL Certificate Authority ", S 08.04.2037
+  10  = CN=SJP, OU=J2EE, C=UK                                                       18.01.2044
+  11  = CN=GeoTrust TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US        02.11.2027
+  12  = CN=Encryption Everywhere DV TLS CA - G2, OU=www.digicert.com, O=DigiCert In 27.11.2027
+  13  = CN=RapidSSL TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US        02.11.2027
+  14  = CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1, O=DigiCert Inc, C=US         29.03.2031
+  15  = CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 20 16.07.2036
+  16  = CN=DigiCert EV RSA CA G2, O=DigiCert Inc, C=US                              02.07.2030
+  17  = EMAIL=support@certificates.gsk.com, CN=GSK 1024-bit SHA256 SSL Certificate  29.06.2045
+  18  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+  19  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  20  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  21  = CN=cerpssappo.gsk.com, O=GSK, C=US                                          10.01.2026
+  22  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  23  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  24  = CN=cerpssapep.gsk.com, O=GSK, C=US                                          15.01.2026
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=SLP, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Community, C=DE
+Namespace:
+Profiles:     /usr/sap/SLP/D47/sec/SAPSYS.pse
+
+OK: File exists, length:                                         31,559
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.56 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+<SNCS>		      PROG <SNCS>
+
+  Own Certificate
+  CN=SLP, OU=SAP Web AS, O=SAP Trust Community, C=DE                                01.01.2038
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=SLP, OU=SAP Web AS, O=SAP Trust Community, C=DE
+Namespace:
+Profiles:     /usr/sap/SLP/D47/sec/SAPSNCS.pse
+
+OK: File exists, length:                                          1,305
+OK (local PSE identical to original in database).
+27.05.2025                     Overview of Installed Certificates                                  2
+
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.56 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+SMIME Standard		      SMIM DFAULT
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+Collaboration Integration Library: oAuth Appl.		      SSFA CLBOAU
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+Logon Ticket		      SSFA SSO2
+
+  Own Certificate
+  CN=SLP, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Community, C=DE                01.01.2038
+
+  Certificate List
+   1  = CN=SOP                                                                      01.01.2038
+   2  = OU=J2EE, CN=RSP                                                             28.01.2031
+   3  = CN=POP, L=J2EE, C=US                                                        18.12.2043
+   4  = CN=RPP, OU=J2EE, C=US                                                       24.02.2044
+   5  = CN=RSP, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   6  = CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US       15.01.2038
+   7  = CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US       10.11.2031
+   8  = CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, 10.11.2031
+   9  = OU="GSK SSL Certificate Authority ", CN="GSK SSL Certificate Authority ", S 08.04.2037
+  10  = CN=SJP, OU=J2EE, C=UK                                                       18.01.2044
+  11  = CN=GeoTrust TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US        02.11.2027
+  12  = CN=Encryption Everywhere DV TLS CA - G2, OU=www.digicert.com, O=DigiCert In 27.11.2027
+  13  = CN=RapidSSL TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US        02.11.2027
+  14  = CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1, O=DigiCert Inc, C=US         29.03.2031
+  15  = CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 20 16.07.2036
+  16  = CN=DigiCert EV RSA CA G2, O=DigiCert Inc, C=US                              02.07.2030
+  17  = EMAIL=support@certificates.gsk.com, CN=GSK 1024-bit SHA256 SSL Certificate  29.06.2045
+  18  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+  19  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  20  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  21  = CN=cerpssappo.gsk.com, O=GSK, C=US                                          10.01.2026
+  22  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  23  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  24  = CN=cerpssapep.gsk.com, O=GSK, C=US                                          15.01.2026
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=SLP, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Community, C=DE
+Namespace:
+Profiles:     /usr/sap/SLP/D47/sec/SAPSYS.pse
+
+OK: File exists, length:                                         31,559
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.56 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+SSL Client (Anonymous)		      SSLC ANONYM
+27.05.2025                     Overview of Installed Certificates                                  3
+
+  Own Certificate
+  CN=anonymous                                                                      01.01.2038
+
+  Certificate List
+   1  = CN=POP, L=J2EE, C=US                                                        18.12.2043
+   2  = CN=RPP, OU=J2EE, C=US                                                       24.02.2044
+   3  = CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US       15.01.2038
+   4  = CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US       10.11.2031
+   5  = CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, 10.11.2031
+   6  = CN=GeoTrust TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US        02.11.2027
+   7  = CN=Encryption Everywhere DV TLS CA - G2, OU=www.digicert.com, O=DigiCert In 27.11.2027
+   8  = CN=RapidSSL TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US        02.11.2027
+   9  = CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1, O=DigiCert Inc, C=US         29.03.2031
+  10  = CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 20 16.07.2036
+  11  = CN=DigiCert EV RSA CA G2, O=DigiCert Inc, C=US                              02.07.2030
+  12  = CN=GeoTrust EV RSA CA G2, O=DigiCert Inc, C=US                              02.07.2030
+  13  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+  14  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  15  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  16  = CN=cerpssappo.gsk.com, O=GSK, C=US                                          10.01.2026
+  17  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  18  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  19  = CN=cerpssapep.gsk.com, O=GSK, C=US                                          15.01.2026
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=anonymous
+Namespace:
+Profiles:     /usr/sap/SLP/D47/sec/SAPSSLA.pse
+
+OK: File exists, length:                                         25,836
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.56 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+SSL Client (Standard)		      SSLC DFAULT
+
+  Own Certificate
+  CN=SLP SSL client SSL Client (Standard), OU=I0020605370, OU=SAP Web AS, O=SAP Tr  01.01.2038
+
+  Certificate List
+   1  = CN=POP, L=J2EE, C=US                                                        18.12.2043
+   2  = CN=RPP, OU=J2EE, C=US                                                       24.02.2044
+   3  = CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US       15.01.2038
+   4  = CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US       10.11.2031
+   5  = CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, 10.11.2031
+   6  = OU="GSK SSL Certificate Authority ", CN="GSK SSL Certificate Authority ", S 08.04.2037
+   7  = CN=GeoTrust TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US        02.11.2027
+   8  = CN=Encryption Everywhere DV TLS CA - G2, OU=www.digicert.com, O=DigiCert In 27.11.2027
+   9  = CN=RapidSSL TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US        02.11.2027
+  10  = CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1, O=DigiCert Inc, C=US         29.03.2031
+  11  = CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 20 16.07.2036
+  12  = CN=DigiCert EV RSA CA G2, O=DigiCert Inc, C=US                              02.07.2030
+  13  = CN=GeoTrust EV RSA CA G2, O=DigiCert Inc, C=US                              02.07.2030
+  14  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+  15  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+  16  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+27.05.2025                     Overview of Installed Certificates                                  4
+
+  17  = CN=cerpssappo.gsk.com, O=GSK, C=US                                          10.01.2026
+  18  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  19  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  20  = CN=cerpssapep.gsk.com, O=GSK, C=US                                          15.01.2026
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=SLP SSL client SSL Client (Standard), OU=I0020605370, OU=SAP Web AS, O=SAP Trust Co
+Namespace:
+Profiles:     /usr/sap/SLP/D47/sec/SAPSSLC.pse
+
+OK: File exists, length:                                         27,888
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.56 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+WSSE Web Service Security Test		      SSLC WSSE
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+Standard		      WSSE DFAULT
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+Other System Encryption Certificates		      WSSE WSSCRT
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+WS Security Keys		      WSSE WSSKEY
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+
+
+SSL server Standard		      SSLS DFAULT
+
+	us6salxslp201_SLP_47
+
+  Own Certificate
+  CN=cerpssapslm.gsk.com, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Community, C=  16.02.2026
+
+  Certificate List
+   1  = CN=POP, L=J2EE, C=US                                                        18.12.2043
+   2  = CN=RPP, OU=J2EE, C=US                                                       24.02.2044
+   3  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+   4  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+   5  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+   6  = CN=cerpssapslm.gsk.com, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Communit 16.02.2026
+   7  = CN=cerpssappo.gsk.com, O=GSK, C=US                                          10.01.2026
+   8  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+   9  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  10  = CN=cerpssapep.gsk.com, O=GSK, C=US                                          15.01.2026
+
+	us6salxslp101_SLP_47
+
+  Own Certificate
+  CN=cerpssapslm.gsk.com, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Community, C=  16.02.2026
+
+  Certificate List
+   1  = CN=POP, L=J2EE, C=US                                                        18.12.2043
+   2  = CN=RPP, OU=J2EE, C=US                                                       24.02.2044
+27.05.2025                     Overview of Installed Certificates                                  5
+
+   3  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+   4  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+   5  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+   6  = CN=cerpssapslm.gsk.com, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Communit 16.02.2026
+   7  = CN=cerpssappo.gsk.com, O=GSK, C=US                                          10.01.2026
+   8  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+   9  = CN=GSK Issuing CA 2, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033
+  10  = CN=cerpssapep.gsk.com, O=GSK, C=US                                          15.01.2026

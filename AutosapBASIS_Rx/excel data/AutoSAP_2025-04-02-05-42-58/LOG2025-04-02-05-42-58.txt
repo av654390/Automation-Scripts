@@ -1,0 +1,21 @@
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+Start Date: 02.04.2025, Start Time: 04:43:07
+End Date: 02.04.2025, End Time: 05:43:07
+
+val11 === 8
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in RZ03
+val1 === 2
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) table not locked in smlg
+val2 === 118.0
+Update is active
+val9 === Active
+val4=== 3296
+val5=== 0
+val6=== 0
+val7=== 3328
+Error in system RBQ: name 'queue' is not defined
+Mail sent!

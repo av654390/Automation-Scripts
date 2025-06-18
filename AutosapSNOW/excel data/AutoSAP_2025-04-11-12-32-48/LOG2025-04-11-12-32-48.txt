@@ -1,0 +1,61 @@
+Files will be stored in the path- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-11-12-32-48\
+<Response [200]>
+{'result': [{'number': 'SCTASK2698712', 'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Mallika Gavini', 'variables.request_type': '114 - Delete/Cancel Workflows', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': '', 'variables.status': '', 'variables.document_type': '', 'variables.document_no': '', 'variables.from_user': '', 'variables.to_user.user_name': ''}, {'number': 'SCTASK2707302', 'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Erry Lavakumar', 'variables.request_type': '115 - Forwarding Work Items', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Erry Lavakumar', 'variables.status': 'Created', 'variables.document_type': 'DP (Document processesing)', 'variables.document_no': '123456', 'variables.from_user': '', 'variables.to_user.user_name': 'el491900'}, {'number': 'SCTASK2707371', 'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Mallika Gavini', 'variables.request_type': '115 - Forwarding Work Items', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Mallika Gavini', 'variables.status': 'Blocked', 'variables.document_type': 'DP (Document processesing)', 'variables.document_no': '445122', 'variables.from_user': '', 'variables.to_user.user_name': 'mg992450'}, {'number': 'SCTASK2707369', 'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Mallika Gavini', 'variables.request_type': '115 - Forwarding Work Items', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Mallika Gavini', 'variables.status': 'Blocked', 'variables.document_type': 'DP (Document processesing)', 'variables.document_no': '445511', 'variables.from_user': '', 'variables.to_user.user_name': 'mg992450'}, {'number': 'SCTASK2701154', 'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Erry Lavakumar', 'variables.request_type': '115 - Forwarding Work Items', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Akoju Sharanya', 'variables.status': 'Created', 'variables.document_type': 'DP (Document processesing)', 'variables.document_no': '123456', 'variables.from_user': '', 'variables.to_user.user_name': 'as776099'}, {'number': 'SCTASK2490485', 'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Jonathan Reid', 'variables.request_type': '116 - Maintaining Users and Approvers / Rules Update', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': '', 'variables.status': '', 'variables.document_type': '', 'variables.document_no': '', 'variables.from_user': '', 'variables.to_user.user_name': ''}, {'number': 'SCTASK2610391', 'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Andy Chapman', 'variables.request_type': '115 - Forwarding Work Items', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Andy Chapman', 'variables.status': 'Created', 'variables.document_type': 'Invoice', 'variables.document_no': '14598065,14612452', 'variables.from_user': 'Anthony Lefley', 'variables.to_user.user_name': 'axc38519'}, {'number': 'SCTASK2707364', 'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Mallika Gavini', 'variables.request_type': '115 - Forwarding Work Items', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Mallika Gavini', 'variables.status': 'Blocked', 'variables.document_type': 'DP (Document processesing)', 'variables.document_no': '444517', 'variables.from_user': '', 'variables.to_user.user_name': 'mg992450'}, {'number': 'SCTASK2706553', 'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Anand Singh', 'variables.request_type': '113 - Restarting/Refresh Workflows', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': '', 'variables.status': '', 'variables.document_type': '', 'variables.document_no': '', 'variables.from_user': '', 'variables.to_user.user_name': ''}]}
+{'SCTASK2707302': {'docid': '123456', 'uuser': 'el491900'}, 'SCTASK2707371': {'docid': '445122', 'uuser': 'mg992450'}, 'SCTASK2707369': {'docid': '445511', 'uuser': 'mg992450'}, 'SCTASK2701154': {'docid': '123456', 'uuser': 'as776099'}, 'SCTASK2610391': {'docid': '14598065,14612452', 'uuser': 'axc38519'}, 'SCTASK2707364': {'docid': '444517', 'uuser': 'mg992450'}}
+
+in logon 
+No other session found
+docid: 123456
+UUser: el491900
+iiiiiiiiiiiiiiii
+rrrrrrrrrrrrr
+dp found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+Unexpected error in dpforward: Property '<unknown>.selectedRows' can not be set.
+None
+docid: 445122
+UUser: mg992450
+iiiiiiiiiiiiiiii
+rrrrrrrrrrrrr
+dp found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+kkkkkkkkk
+Reading HTML file: C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-11-12-32-48\SCTASK2707371\dp115_2025-04-11-12-32-48.html
+Error: Required columns not found in the HTML file.
+None
+docid: 445511
+UUser: mg992450
+iiiiiiiiiiiiiiii
+rrrrrrrrrrrrr
+dp found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+kkkkkkkkk
+Reading HTML file: C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-11-12-32-48\SCTASK2707369\dp115_2025-04-11-12-32-48.html
+DOC Status Column: document status
+Current Role Column: current role
+WI Status Column: wi status
+Unique DOC status values: ['rejected by approver']
+Unique Current Role values: ['' 'znpo_ap_offshor']
+Unique WI Status values: ['completed' 'in process']
+ABC: True
+Filtered rows count: 1
+   doc. id  cocd  documentno  year  item  ... del reason idoc no. userobjid restart id  batch numb
+1   445511  AE04         NaN   NaN   NaN  ...        NaN      NaN       NaN          0         NaN
+
+[1 rows x 68 columns]
+Valid rows found, proceeding with further processing...
+Valid SAP GUI Row Indices: [1]
+pppppppppppp
+user not found
+user found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+True
+In Process In Process
+{'error': 3, 'message': 'True in dpforward'}
+docid: 123456
+UUser: as776099
+Unexpected error in dpforward: (-2147417848, 'The object invoked has disconnected from its clients.', None, None)
+None
+docid: 14598065,14612452
+UUser: axc38519
+Inavlid DP number: 14598065,14612452
+docid: 444517
+UUser: mg992450
+Unexpected error in dpforward: (-2147417848, 'The object invoked has disconnected from its clients.', None, None)
+None

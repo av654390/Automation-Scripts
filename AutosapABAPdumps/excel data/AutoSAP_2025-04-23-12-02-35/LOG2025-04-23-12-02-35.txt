@@ -1,0 +1,70 @@
+Attempting to log on to: 1.3 - RAP-SAP SCM(APO) System
+Using SAP path: C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe
+
+in logon 
+No other session found
+Logon is Fine
+Yesterday's date : 22.04.2025
+Dumps Count: 3
+0
+Attempting to log on to: 1.1 - RBP - SAP ERP 6.0(R/3) System
+Using SAP path: C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe
+
+in logon 
+No other session found
+Logon is Fine
+Yesterday's date : 22.04.2025
+Dumps Count: 337
+0
+Attempting to log on to: 1.2 - RWP-SAP BW  System
+Using SAP path: C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe
+
+in logon 
+No other session found
+Logon is Fine
+Yesterday's date : 22.04.2025
+Dumps Count: 4
+0
+Attempting to log on to: 1.5 - LMP-SLM Sell Side
+Using SAP path: C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe
+
+in logon 
+No other session found
+Logon is Fine
+Yesterday's date : 22.04.2025
+No short dumps match the selection criteria
+Dumps Count: 0
+0
+Attempting to log on to: 1.4 - SLP -SAP SLM Buy Side
+Using SAP path: C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe
+
+in logon 
+No other session found
+Logon is Fine
+Yesterday's date : 22.04.2025
+No short dumps match the selection criteria
+Dumps Count: 0
+0
+Attempting to log on to: 1.D - MGP - SAP FIORI Application
+Using SAP path: C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe
+
+in logon 
+No other session found
+Logon is Fine
+Yesterday's date : 22.04.2025
+Dumps Count: 10
+0
+Mail Sent To:
+akoju.x.sharanya@gsk.com akoju.x.sharanya@gsk.com
+Generated Files List:
+1 [RAP] EWAdumps 2025-04-23-12-02-35.html
+2 [RBP] EWAdumps 2025-04-23-12-02-35.html
+3 [RWP] EWAdumps 2025-04-23-12-02-35.html
+4 [LMP] EWAdumps 2025-04-23-12-02-35.png
+5 [SLP] EWAdumps 2025-04-23-12-02-35.png
+6 [MGP] EWAdumps 2025-04-23-12-02-35.html
+Autosapexcel_sheet-2025-04-23-12-02-35.html
+Autosapexcel_sheet-2025-04-23-12-02-35.xlsx
+LOG2025-04-23-12-02-35.txt
+MAIL SENT SUCCESSFULLY
+None

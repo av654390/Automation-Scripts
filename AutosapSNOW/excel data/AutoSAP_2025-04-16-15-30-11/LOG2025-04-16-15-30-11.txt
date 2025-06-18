@@ -1,0 +1,3 @@
+Files will be stored in the path- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-16-15-30-11\
+<Response [500]>
+{'message': 'An unexpected error occurred', 'request_id': 'c0fe2f2f89e2510d27a7996945ad364b'}

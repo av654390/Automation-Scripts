@@ -1,0 +1,189 @@
+200
+True 0
+200
+True 1
+200
+True 2
+200
+True 3
+200
+True 4
+200
+True 5
+200
+True 6
+200
+True 7
+200
+True 8
+200
+True 9
+200
+True 10
+200
+True 11
+200
+True 12
+200
+True 13
+200
+True 14
+200
+True 15
+200
+True 16
+200
+True 17
+200
+True 18
+200
+True 19
+200
+True 20
+200
+True 21
+200
+True 22
+200
+True 23
+200
+True 24
+200
+True 25
+200
+True 26
+200
+True 27
+200
+True 28
+200
+True 29
+200
+True 30
+200
+True 31
+200
+True 32
+200
+True 33
+200
+True 34
+200
+True 35
+200
+True 36
+200
+True 37
+200
+True 38
+200
+True 39
+200
+True 40
+200
+True 41
+200
+True 42
+200
+True 43
+200
+True 44
+200
+True 45
+200
+True 46
+200
+True 47
+200
+True 48
+200
+True 49
+200
+True 50
+200
+True 51
+Exception for https://rixsapfwp030.sbbio.be:44430/nwa HTTP Error 401: Unauthorized
+True 52
+200
+True 53
+200
+True 54
+200
+True 55
+200
+True 56
+200
+True 57
+200
+True 58
+200
+True 59
+200
+True 60
+200
+True 61
+200
+True 62
+200
+True 63
+200
+True 64
+200
+True 65
+200
+True 66
+200
+True 67
+200
+True 68
+200
+True 69
+200
+True 70
+200
+True 71
+200
+True 72
+200
+True 73
+200
+True 74
+200
+True 75
+200
+True 76
+200
+True 77
+200
+True 78
+200
+True 79
+200
+True 80
+200
+True 81
+200
+True 82
+akoju.x.sharanya@gsk.com akoju.x.sharanya@gsk.com, erry.8.lavakumar@gsk.com akoju.x.sharanya@gsk.com
+autosaplink.py
+autosaplink.spec
+build
+dist
+excel data
+GlaxoSmithKline Certificate Authority.crt
+javafailed.xlsx
+linkester.sh
+linktester.py
+linktester1.py
+logo.png
+og3 - Copy.xlsx
+og3.xlsx
+sender.py
+sender1.py
+temp
+temp.py
+temp11.py
+test.py
+WAVE2.xlsx
+__pycache__
+None

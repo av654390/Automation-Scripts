@@ -1,0 +1,176 @@
+﻿14.05.2025                     Overview of Installed Certificates                                  1
+
+System		      PROG <SYST>
+
+  Own Certificate
+  CN=us6salxltp101.corpnet2.com, OU=Pharma, O=GSK, C=GB                             01.01.2038
+
+  Certificate List
+   1  = CN=ILP                                                                      01.01.2038
+   2  = CN=SOP                                                                      01.01.2038
+   3  = OU=J2EE, CN=RSP                                                             28.01.2031
+   4  = CN=RPP, OU=J2EE, C=US                                                       24.02.2044
+   5  = CN=RSP, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   6  = CN=RBP, OU=I0020605368, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   7  = CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US       15.01.2038
+   8  = CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US       10.11.2031
+   9  = CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, 10.11.2031
+  10  = CN=SJP, OU=J2EE, C=UK                                                       18.01.2044
+  11  = CN=Thawte TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US          02.11.2027
+  12  = CN=GeoTrust TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US        02.11.2027
+  13  = CN=Encryption Everywhere DV TLS CA - G2, OU=www.digicert.com, O=DigiCert In 27.11.2027
+  14  = CN=RapidSSL TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US        02.11.2027
+  15  = CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1, O=DigiCert Inc, C=US         29.03.2031
+  16  = CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 20 16.07.2036
+  17  = CN=Thawte EV RSA CA G2, O=DigiCert Inc, C=US                                02.07.2030
+  18  = CN=DigiCert EV RSA CA G2, O=DigiCert Inc, C=US                              02.07.2030
+  19  = CN=GeoTrust EV RSA CA G2, O=DigiCert Inc, C=US                              02.07.2030
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=us6salxltp101.corpnet2.com, OU=Pharma, O=GSK, C=GB
+Namespace:
+Profiles:     /usr/sap/LTP/D80/sec/SAPSYS.pse
+
+OK: File exists, length:                                         21,860
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.47 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+<SNCS>		      PROG <SNCS>
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+SMIME Standard		      SMIM DFAULT
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+Collaboration Integration Library: oAuth Appl.		      SSFA CLBOAU
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+E-Learning		      SSFA ELEARN
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+Logon Ticket		      SSFA SSO2
+
+  Own Certificate
+  CN=us6salxltp101.corpnet2.com, OU=Pharma, O=GSK, C=GB                             01.01.2038
+
+  Certificate List
+   1  = CN=ILP                                                                      01.01.2038
+   2  = CN=SOP                                                                      01.01.2038
+14.05.2025                     Overview of Installed Certificates                                  2
+
+   3  = OU=J2EE, CN=RSP                                                             28.01.2031
+   4  = CN=RPP, OU=J2EE, C=US                                                       24.02.2044
+   5  = CN=RSP, OU=I0020605370, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   6  = CN=RBP, OU=I0020605368, OU=SAP Web AS, O=SAP Trust Community, C=DE          01.01.2038
+   7  = CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US       15.01.2038
+   8  = CN=DigiCert Global Root CA, OU=www.digicert.com, O=DigiCert Inc, C=US       10.11.2031
+   9  = CN=DigiCert High Assurance EV Root CA, OU=www.digicert.com, O=DigiCert Inc, 10.11.2031
+  10  = CN=SJP, OU=J2EE, C=UK                                                       18.01.2044
+  11  = CN=Thawte TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US          02.11.2027
+  12  = CN=GeoTrust TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US        02.11.2027
+  13  = CN=Encryption Everywhere DV TLS CA - G2, OU=www.digicert.com, O=DigiCert In 27.11.2027
+  14  = CN=RapidSSL TLS RSA CA G1, OU=www.digicert.com, O=DigiCert Inc, C=US        02.11.2027
+  15  = CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1, O=DigiCert Inc, C=US         29.03.2031
+  16  = CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 20 16.07.2036
+  17  = CN=Thawte EV RSA CA G2, O=DigiCert Inc, C=US                                02.07.2030
+  18  = CN=DigiCert EV RSA CA G2, O=DigiCert Inc, C=US                              02.07.2030
+  19  = CN=GeoTrust EV RSA CA G2, O=DigiCert Inc, C=US                              02.07.2030
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=us6salxltp101.corpnet2.com, OU=Pharma, O=GSK, C=GB
+Namespace:
+Profiles:     /usr/sap/LTP/D80/sec/SAPSYS.pse
+
+OK: File exists, length:                                         21,860
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.47 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+SSL Client (Anonymous)		      SSLC ANONYM
+
+  Own Certificate
+  CN=anonymous                                                                      01.01.2038
+
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=anonymous
+Namespace:
+Profiles:     /usr/sap/LTP/D80/sec/SAPSSLA.pse
+
+OK: File exists, length:                                          1,787
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.47 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+SSL Client (Standard)		      SSLC DFAULT
+
+  Own Certificate
+  CN=LTP SSL client SSL Client (Standard), OU=I0020605368, OU=SAP Web AS, O=SAP Tr  01.01.2038
+
+
+14.05.2025                     Overview of Installed Certificates                                  3
+
+Checking the PSE
+
+Application server PSE:
+ID:           CN=LTP SSL client SSL Client (Standard), OU=I0020605368, OU=SAP Web AS, O=SAP Trust Co
+Namespace:
+Profiles:     /usr/sap/LTP/D80/sec/SAPSSLC.pse
+
+OK: File exists, length:                                          2,129
+OK (local PSE identical to original in database).
+OK (security toolkit exists).
+Version
+SSFLIB Version 1.850.40 ; CommonCryptoLib (SAPCRYPTOLIB) Version 8.5.47 (+MT) 
+Copyright (c) SAP, 20
+OK (signature tested successfully).
+
+
+
+Standard		      WSSE DFAULT
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+Other System Encryption Certificates		      WSSE WSSCRT
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+WS Security Keys		      WSSE WSSKEY
+SSF-Exist: The PSE does not exist
+Use Trust Manager (transaction STRUST) for error analysis
+
+
+SSL server Standard		      SSLS DFAULT
+
+	us6salxltp101_LTP_80
+
+  Own Certificate
+  CN=us6salxltp101.corpnet2.com, OU=Pharma, O=GSK, C=GB                             25.03.2026
+
+  Certificate List
+   1  = CN=GlaxoSmithKline Certificate Authority                                    20.11.2037
+   2  = CN=us6salxltp101.corpnet2.com, OU=Pharma, O=GSK, C=GB                       25.03.2026
+   3  = CN=WMSERVICE Certificate Authority 1, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+   4  = CN=WMSERVICE Certificate Authority 2, DC=wmservice, DC=corpnet1, DC=com     22.11.2027
+   5  = CN=GSK Issuing CA 1, DC=wmservice, DC=corpnet1, DC=com                      19.09.2033

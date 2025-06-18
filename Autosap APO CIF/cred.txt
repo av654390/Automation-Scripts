@@ -1,0 +1,24 @@
+ss987311
+v2nuddxklD+kGrOyQFBD8LWZF3Ug4wIkYFQEnFOnCdU=
+nc843765
+o5M9bxicwYovn22akl5SVi2n6cgUZxWFwGyJeYVaLYgrctsWgdqUnCQfYRN58YUY
+
+
++--------------------+      +-------------------------------+       +------------------------------+
+| Python Script      | ---- | SAP Application (GUI)         | ----  | SAP Scripting Engine         |
++--------------------+      +-------------------------------+       +------------------------------+
+          |                     | ( communicates with   )
+          |                     | ( SAP GUI elements    )
+          V                     |                        
++--------------------+      +--------------------+      +-----------------------+
+| Imports libraries  | ---- | Connects to SAP    | ---- | Executes SAP script   |
+| (e.g., win32com)   |      | session            |      | (written in SAP       |
++--------------------+      +--------------------+      |  scripting language)  |
+          |                                             | (optional: retrieves )|
+          |                                             | (data from SAP GUI)   |
+          V                                             +-----------------------+                        
++--------------------+      +-------------------------+      
+| Writes SAP script  | ---- | script interacts        |
+| (using string)     |      | (with SAP GUI elements) |
++--------------------+      +-------------------------+
+

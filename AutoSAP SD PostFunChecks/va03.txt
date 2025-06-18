@@ -1,0 +1,26 @@
+﻿Business partner					1100042779  CHU DE POINTE A PITRE
+Material					60000000139427  JEMPERLI VIAL 50MG/ML 1X10ML_FR-GSK
+
+
+Document							Quantity	Unit	Ref. value	Currency	On	Time	Status
+
+	Tender Contract 1700071571 / 20						      65	EA	394.588,35	EUR	13.11.2024	13:31:45
+
+		Standard Order 0274280586 / 10					       2	EA	 12.141,18	EUR	21.02.2025	10:14:35	Completed
+
+			Outbound Delivery 2128409566 / 10				       0	EA			04.03.2025	10:08:00	Being processed
+
+				Picking request 2128409566 / 10			       0	EA			04.03.2025	10:39:08	Completed
+				Confirmation of service 0639566000 / 10			       0	EA	      0,00	EUR	04.03.2025	10:39:19	Completed
+
+			Outbound Delivery 2128410200 / 10				       2	EA			04.03.2025	10:53:48	Completed
+
+				Picking request 2128410200 / 10			       2	EA			06.03.2025	12:39:40	Completed
+				GD goods issue:delvy 4973583085 / 1			       2	EA	    470,30	GBP	06.03.2025	13:09:08	complete
+				Invoice 6073120928 / 10			       2	EA	 12.141,18	EUR	06.03.2025	13:09:11	Completed
+
+						Accounting document 6073120928	       2	EA			06.03.2025	13:09:11	Not cleared
+
+				Intercompany Billing 4166759647 / 1			       2	EA	    825,88	EUR	06.03.2025	13:36:04	Completed
+
+						Accounting document 4166759647	       2	EA			06.03.2025	13:36:10	Not cleared

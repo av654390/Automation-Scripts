@@ -1,0 +1,185 @@
+Files will be stored in the path- C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-23-14-58-53\
+<Response [200]>
+{'result': [{'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Mohan Arumugam', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': '', 'variables.status': '', 'variables.document_no': '', 'variables.from_user': '', 'request_item': 'RITM2592679', 'request_item.opened_by': 'Mohan Arumugam', 'number': 'SCTASK2906582', 'variables.request_type': '113 - Restarting/Refresh Workflows', 'variables.document_type': '', 'request_item.opened_by.email': 'mohan.x.arumugam@gsk.com', 'variables.to_user.user_name': ''}, {'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Robert Filipiuk', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Mallika Gavini', 'variables.status': 'Created', 'variables.document_no': '123123123', 'variables.from_user': '', 'request_item': 'RITM2592155', 'request_item.opened_by': 'Robert Filipiuk', 'number': 'SCTASK2906036', 'variables.request_type': '115 - Forwarding Work Items', 'variables.document_type': 'DP (Document processesing)', 'request_item.opened_by.email': 'robert.x.filipiuk@gsk.com', 'variables.to_user.user_name': 'mg992450'}, {'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Mohan Arumugam', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': '', 'variables.status': '', 'variables.document_no': '', 'variables.from_user': '', 'request_item': 'RITM2592694', 'request_item.opened_by': 'Mohan Arumugam', 'number': 'SCTASK2906592', 'variables.request_type': '116 - Maintaining Users and Approvers / Rules Update', 'variables.document_type': '', 'request_item.opened_by.email': 'mohan.x.arumugam@gsk.com', 'variables.to_user.user_name': ''}, {'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Preetham Roy Aranha', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Abhishek Jain', 'variables.status': 'Created', 'variables.document_no': '1234', 'variables.from_user': '', 'request_item': 'RITM2592035', 'request_item.opened_by': 'Preetham Roy Aranha', 'number': 'SCTASK2905922', 'variables.request_type': '115 - Forwarding Work Items', 'variables.document_type': 'DP (Document processesing)', 'request_item.opened_by.email': 'preetham.x.aranha@gsk.com', 'variables.to_user.user_name': 'aj207462'}, {'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Mallika Gavini', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Mallika Gavini', 'variables.status': 'Blocked', 'variables.document_no': '12345', 'variables.from_user': '', 'request_item': 'RITM2592691', 'request_item.opened_by': 'Mallika Gavini', 'number': 'SCTASK2906590', 'variables.request_type': '115 - Forwarding Work Items', 'variables.document_type': 'DP (Document processesing)', 'request_item.opened_by.email': 'mallika.x.gavini@gsk.com', 'variables.to_user.user_name': 'mg992450'}, {'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Mallika Gavini', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Mallika Gavini', 'variables.status': 'Blocked', 'variables.document_no': '445511', 'variables.from_user': '', 'request_item': 'RITM2592618', 'request_item.opened_by': 'Mallika Gavini', 'number': 'SCTASK2906523', 'variables.request_type': '115 - Forwarding Work Items', 'variables.document_type': 'DP (Document processesing)', 'request_item.opened_by.email': 'mallika.x.gavini@gsk.com', 'variables.to_user.user_name': 'mg992450'}, {'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Mohan Arumugam', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': '', 'variables.status': '', 'variables.document_no': '', 'variables.from_user': '', 'request_item': 'RITM2592009', 'request_item.opened_by': 'Mohan Arumugam', 'number': 'SCTASK2905908', 'variables.request_type': '116 - Maintaining Users and Approvers / Rules Update', 'variables.document_type': '', 'request_item.opened_by.email': 'mohan.x.arumugam@gsk.com', 'variables.to_user.user_name': ''}, {'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Mohan Arumugam', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Mohan Arumugam', 'variables.status': 'Created', 'variables.document_no': 'test', 'variables.from_user': '', 'request_item': 'RITM2592621', 'request_item.opened_by': 'Mohan Arumugam', 'number': 'SCTASK2906525', 'variables.request_type': '115 - Forwarding Work Items', 'variables.document_type': 'Invoice', 'request_item.opened_by.email': 'mohan.x.arumugam@gsk.com', 'variables.to_user.user_name': 'ma781272'}, {'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Mallika Gavini', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Mallika Gavini', 'variables.status': 'Document created', 'variables.document_no': '445511', 'variables.from_user': '', 'request_item': 'RITM2592152', 'request_item.opened_by': 'Mallika Gavini', 'number': 'SCTASK2906031', 'variables.request_type': '115 - Forwarding Work Items', 'variables.document_type': 'DP (Document processesing)', 'request_item.opened_by.email': 'mallika.x.gavini@gsk.com', 'variables.to_user.user_name': 'mg992450'}, {'short_description': 'GP&T ERP Operational Service Request - Fulfilment Task', 'variables.requestedfor_name': 'Mallika Gavini', 'assignment_group': 'SAP-Workflow-L2', 'variables.to_user': 'Mallika Gavini', 'variables.status': 'Created', 'variables.document_no': '444517', 'variables.from_user': '', 'request_item': 'RITM2592616', 'request_item.opened_by': 'Mallika Gavini', 'number': 'SCTASK2906522', 'variables.request_type': '115 - Forwarding Work Items', 'variables.document_type': 'DP (Document processesing)', 'request_item.opened_by.email': 'mallika.x.gavini@gsk.com', 'variables.to_user.user_name': 'mg992450'}]}
+{'SCTASK2906036': {'request_item': 'RITM2592155', 'opened_by': 'Robert Filipiuk', 'opened_by_email': 'robert.x.filipiuk@gsk.com', 'docid': '123123123', 'uuser': 'mg992450', 'request_for': 'Robert Filipiuk'}, 'SCTASK2905922': {'request_item': 'RITM2592035', 'opened_by': 'Preetham Roy Aranha', 'opened_by_email': 'preetham.x.aranha@gsk.com', 'docid': '1234', 'uuser': 'aj207462', 'request_for': 'Preetham Roy Aranha'}, 'SCTASK2906590': {'request_item': 'RITM2592691', 'opened_by': 'Mallika Gavini', 'opened_by_email': 'mallika.x.gavini@gsk.com', 'docid': '12345', 'uuser': 'mg992450', 'request_for': 'Mallika Gavini'}, 'SCTASK2906523': {'request_item': 'RITM2592618', 'opened_by': 'Mallika Gavini', 'opened_by_email': 'mallika.x.gavini@gsk.com', 'docid': '445511', 'uuser': 'mg992450', 'request_for': 'Mallika Gavini'}, 'SCTASK2906525': {'request_item': 'RITM2592621', 'opened_by': 'Mohan Arumugam', 'opened_by_email': 'mohan.x.arumugam@gsk.com', 'docid': 'test', 'uuser': 'ma781272', 'request_for': 'Mohan Arumugam'}, 'SCTASK2906031': {'request_item': 'RITM2592152', 'opened_by': 'Mallika Gavini', 'opened_by_email': 'mallika.x.gavini@gsk.com', 'docid': '445511', 'uuser': 'mg992450', 'request_for': 'Mallika Gavini'}, 'SCTASK2906522': {'request_item': 'RITM2592616', 'opened_by': 'Mallika Gavini', 'opened_by_email': 'mallika.x.gavini@gsk.com', 'docid': '444517', 'uuser': 'mg992450', 'request_for': 'Mallika Gavini'}}
+
+in logon 
+No other session found
+____________________________________________________________________________________________________
+SC Task : SCTASK2906036
+Request Item: RITM2592155
+docid: 123123123
+UUser: mg992450
+Robert Filipiuk robert.x.filipiuk@gsk.com
+rrrrrrrrrrrrr
+No data found for specified
+{'error': 4, 'message': 'No data found for specified', 'ttype': 'DP'}
+No data found for specified
+____________________________________________________________________________________________________
+SC Task : SCTASK2905922
+Request Item: RITM2592035
+docid: 1234
+UUser: aj207462
+Preetham Roy Aranha preetham.x.aranha@gsk.com
+rrrrrrrrrrrrr
+dp found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+kkkkkkkkk
+Reading HTML file: C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-23-14-58-53\SCTASK2905922_RITM2592035\dp115_2025-04-23-14-58-53.html
+DOC Status Column: doc status
+Current Role Column: cur role
+WI Status Column: wi status
+Unique DOC status values: ['posted']
+Unique Current Role values: ['']
+Unique WI Status values: ['completed']
+ABC: False
+{'error': 4, 'message': 'DP status is 0    posted\n1    posted\nName: doc status, dtype: object', 'ttype': 'dpStatus'}
+DP status is 0    posted
+1    posted
+Name: doc status, dtype: object
+____________________________________________________________________________________________________
+SC Task : SCTASK2906590
+Request Item: RITM2592691
+docid: 12345
+UUser: mg992450
+Mallika Gavini mallika.x.gavini@gsk.com
+rrrrrrrrrrrrr
+dp found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+kkkkkkkkk
+Reading HTML file: C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-23-14-58-53\SCTASK2906590_RITM2592691\dp115_2025-04-23-14-58-53.html
+DOC Status Column: document status
+Current Role Column: cur role
+WI Status Column: wi status
+Unique DOC status values: ['confirmed duplicate']
+Unique Current Role values: ['']
+Unique WI Status values: ['completed']
+ABC: True
+Filtered rows count: 0
+Empty DataFrame
+Columns: [doc. id, cocd, documentno, year, item, document status, reason, type, dp doc typ, creditmemo, reference, curr.agent, first name, last name, multiagent, cur role, lastoption, supplier, totalamoun, doccurrenc, amtrepcurr, recurrency, ln amount, ln amt rpt, pst date, due date, daystodue, overdue, rqustionid, vendor nam, pur. doc., item.1, plnt, pgr, cycle time, doc. date, exceptdate, enter on, enter at, start on, start at, end on, end at, updatedate, updatetime, revsaldoc#, rvdfy, old docnum, oldc.c, workitemid, oldfy, task, createdate, createtime, end on.1, end at.1, doccurrenc.1, wi status, proc. type, rescanres, deletereas, target, rescan id, del reason, idoc no., userobjid, restart id, batch numb]
+Index: []
+No valid rows found, stopping execution.
+{'error': 4, 'message': 'No valid rows found', 'ttype': 'dpstatus'}
+No valid rows found
+____________________________________________________________________________________________________
+SC Task : SCTASK2906523
+Request Item: RITM2592618
+docid: 445511
+UUser: mg992450
+Mallika Gavini mallika.x.gavini@gsk.com
+rrrrrrrrrrrrr
+dp found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+kkkkkkkkk
+Reading HTML file: C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-23-14-58-53\SCTASK2906523_RITM2592618\dp115_2025-04-23-14-58-53.html
+DOC Status Column: document status
+Current Role Column: current role
+WI Status Column: wi status
+Unique DOC status values: ['rejected by approver']
+Unique Current Role values: ['' 'znpo_ap_offshor']
+Unique WI Status values: ['completed' 'in process']
+ABC: True
+Filtered rows count: 1
+   doc. id  cocd  documentno  year  item  ... del reason idoc no. userobjid restart id  batch numb
+1   445511  AE04         NaN   NaN   NaN  ...        NaN      NaN       NaN          0         NaN
+
+[1 rows x 68 columns]
+Valid rows found, proceeding with further processing...
+Valid SAP GUI Row Indices: [1]
+pppppppppppp
+user not found
+user found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+True
+In Process In Process
+{'error': 1, 'message': 'True in dpforward', 'ttype': 'success'}
+After Success
+C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-23-14-58-53\SCTASK2906523_RITM2592618\DCF RITM2592618.docx
+{'request_item': 'RITM2592618', 'opened_by': 'Mallika Gavini', 'opened_by_email': 'mallika.x.gavini@gsk.com', 'docid': '445511', 'uuser': 'mg992450', 'request_for': 'Mallika Gavini'}
+Copied Successfully
+['A before 445511.png', 'B beforeagents 445511.png', 'C afteragents 445511.png', 'D after 445511.png', 'DPstatus.png', 'F action 445511.png']
+['A before 445511.png', 'B beforeagents 445511.png', 'C afteragents 445511.png', 'D after 445511.png', 'DCF RITM2592618.docx', 'dp115_2025-04-23-14-58-53.html', 'DPstatus.png', 'F action 445511.png']
+Doc Generated 
+____________________________________________________________________________________________________
+SC Task : SCTASK2906525
+Request Item: RITM2592621
+docid: test
+UUser: ma781272
+Mohan Arumugam mohan.x.arumugam@gsk.com
+rrrrrrrrrrrrr
+dp found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+{'error': 4, 'message': com_error(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None), 'ttype': 'DP'}
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+____________________________________________________________________________________________________
+SC Task : SCTASK2906031
+Request Item: RITM2592152
+docid: 445511
+UUser: mg992450
+Mallika Gavini mallika.x.gavini@gsk.com
+rrrrrrrrrrrrr
+dp found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+kkkkkkkkk
+Reading HTML file: C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-23-14-58-53\SCTASK2906031_RITM2592152\dp115_2025-04-23-14-58-53.html
+DOC Status Column: document status
+Current Role Column: current role
+WI Status Column: wi status
+Unique DOC status values: ['rejected by approver']
+Unique Current Role values: ['' 'znpo_ap_offshor']
+Unique WI Status values: ['completed' 'in process']
+ABC: True
+Filtered rows count: 1
+   doc. id  cocd  documentno  year  item  ... del reason idoc no. userobjid restart id  batch numb
+1   445511  AE04         NaN   NaN   NaN  ...        NaN      NaN       NaN          0         NaN
+
+[1 rows x 68 columns]
+Valid rows found, proceeding with further processing...
+Valid SAP GUI Row Indices: [1]
+pppppppppppp
+user not found
+user found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+True
+In Process In Process
+{'error': 1, 'message': 'True in dpforward', 'ttype': 'success'}
+After Success
+C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-23-14-58-53\SCTASK2906031_RITM2592152\DCF RITM2592152.docx
+{'request_item': 'RITM2592152', 'opened_by': 'Mallika Gavini', 'opened_by_email': 'mallika.x.gavini@gsk.com', 'docid': '445511', 'uuser': 'mg992450', 'request_for': 'Mallika Gavini'}
+Copied Successfully
+['A before 445511.png', 'B beforeagents 445511.png', 'C afteragents 445511.png', 'D after 445511.png', 'DPstatus.png', 'F action 445511.png']
+['A before 445511.png', 'B beforeagents 445511.png', 'C afteragents 445511.png', 'D after 445511.png', 'DCF RITM2592152.docx', 'dp115_2025-04-23-14-58-53.html', 'DPstatus.png', 'F action 445511.png']
+Doc Generated 
+____________________________________________________________________________________________________
+SC Task : SCTASK2906522
+Request Item: RITM2592616
+docid: 444517
+UUser: mg992450
+Mallika Gavini mallika.x.gavini@gsk.com
+rrrrrrrrrrrrr
+dp found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+kkkkkkkkk
+Reading HTML file: C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-23-14-58-53\SCTASK2906522_RITM2592616\dp115_2025-04-23-14-58-53.html
+DOC Status Column: doc status
+Current Role Column: current role
+WI Status Column: wi status
+Unique DOC status values: ['blocked' 'posted']
+Unique Current Role values: ['zpo_approver_at' '']
+Unique WI Status values: ['in process' 'completed']
+ABC: True
+Filtered rows count: 1
+   doc. id  cocd  documentno  year  item  ... del reason idoc no. userobjid restart id       batch number
+0   444517  GB02  5105637799  2024   1.0  ...        NaN      NaN       NaN        NaN  IE50_PTCP91027468
+
+[1 rows x 68 columns]
+Valid rows found, proceeding with further processing...
+Valid SAP GUI Row Indices: [0]
+pppppppppppp
+user not found
+user found (-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None)
+True
+In Process In Process
+{'error': 1, 'message': 'True in dpforward', 'ttype': 'success'}
+After Success
+C:\Users\el491900\OneDrive - GSK\Desktop\scripts\venv\AutosapSNOW\excel data\AutoSAP_2025-04-23-14-58-53\SCTASK2906522_RITM2592616\DCF RITM2592616.docx
+{'request_item': 'RITM2592616', 'opened_by': 'Mallika Gavini', 'opened_by_email': 'mallika.x.gavini@gsk.com', 'docid': '444517', 'uuser': 'mg992450', 'request_for': 'Mallika Gavini'}
+Copied Successfully
+['A before 444517.png', 'B beforeagents 444517.png', 'C afteragents 444517.png', 'D after 444517.png', 'DPstatus.png', 'F action 444517.png']
+['A before 444517.png', 'B beforeagents 444517.png', 'C afteragents 444517.png', 'D after 444517.png', 'DCF RITM2592616.docx', 'dp115_2025-04-23-14-58-53.html', 'DPstatus.png', 'F action 444517.png']
+Doc Generated 
+0

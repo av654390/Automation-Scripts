@@ -1,0 +1,5 @@
+Logon Error: (-2147221020, 'Invalid syntax', None, None)
+[-1, 'as776099', "Error in LOGON(-2147221020, 'Invalid syntax', None, None)"]
+Name or password is incorrect (repeat logon)
+Sorry, Name or password is incorrect
+Mail sent!

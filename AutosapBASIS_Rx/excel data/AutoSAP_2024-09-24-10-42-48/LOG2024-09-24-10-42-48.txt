@@ -1,0 +1,32 @@
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+val1 === 6
+val2 === 438.0
+val4=== 0
+val5=== 0
+val6=== 2455
+val7=== 20189
+val3 === 0
+Update is active
+val9 === Active
+S_TL_G
+val10 === green
+0
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+val1 === 6
+val2 === 123.0
+val4=== 0
+val5=== 0
+val6=== 0
+val7=== 0
+val3 === 0
+0
+Mail sent!
+None

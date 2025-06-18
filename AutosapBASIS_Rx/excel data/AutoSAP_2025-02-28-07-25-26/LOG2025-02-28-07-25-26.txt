@@ -1,0 +1,67 @@
+
+in logon 
+No other session found
+<COMObject <unknown>>
+Logon is fine
+11:55:34
+12:55:34
+val11 === 74
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in RZ03
+val1 === 12
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) table not locked in smlg
+val2 === 1465.0
+Update is active
+val9 === Active
+val4=== 0
+val5=== 0
+val6=== 0
+val7=== 64
+val3 === 0
+S_TL_G
+val10 === Green
+0
+User already logged on at another terminal
+in logon User already logged on at another terminal
+<COMObject <unknown>>
+Logon is fine
+11:56:18
+12:56:18
+val11 === None
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) causion window did not came in RZ03
+val1 === 9
+(-2147352567, 'Exception occurred.', (619, 'SAP Frontend Server', 'The control could not be found by id.', 'C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\sapfront.HLP', 393215, 0), None) table not locked in smlg
+val2 === 2324.0
+Update is active
+val9 === Active
+val4=== 0
+val5=== 0
+val6=== 0
+val7=== 0
+val3 === 0
+0
+akoju.x.sharanya@gsk.com, erry.8.lavakumar@gsk.com akoju.x.sharanya@gsk.com
+1 [RBP] st22dumps 2025-02-28-07-25-26.html
+10 [RBP] ldap 2025-02-28-07-25-26.png
+12 [RWP] rz03 2025-02-28-07-25-26.html
+13 [RWP] smlg 2025-02-28-07-25-26.html
+14 [RWP] sm14 2025-02-28-07-25-26.png
+15 [RWP] smq1 2025-02-28-07-25-26.html
+16 [RWP] smq1 2025-02-28-07-25-26.html
+17 [RWP] smq2 2025-02-28-07-25-26.html
+18 [RWP] smq2 2025-02-28-07-25-26.html
+19 [RWP] sm58 2025-02-28-07-25-26.html
+2 [RBP] rz03 2025-02-28-07-25-26.html
+20 [RWP] st04 2025-02-28-07-25-26.png
+3 [RBP] smlg 2025-02-28-07-25-26.html
+4 [RBP] sm14 2025-02-28-07-25-26.png
+5 [RBP] smq1 2025-02-28-07-25-26.html
+6 [RBP] smq1 2025-02-28-07-25-26.html
+7 [RBP] smq2 2025-02-28-07-25-26.html
+8 [RBP] smq2 2025-02-28-07-25-26.html
+9 [RBP] sm58 2025-02-28-07-25-26.html
+Autosapexcel_sheet-2025-02-28-07-25-26.html
+Autosapexcel_sheet-2025-02-28-07-25-26.xlsx
+LOG2025-02-28-07-25-26.txt
+s_s_ledg.gif
+MAIL SENT SUCCESSFULLY
+None
